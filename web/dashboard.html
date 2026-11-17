@@ -1,0 +1,122 @@
+<!-- Dán toàn bộ nội dung này vào Blogger: Trang > Trang mới > chế độ HTML -->
+<div id="myyt">
+<style>
+#myyt{font-family:Arial,Helvetica,sans-serif;max-width:1000px;margin:0 auto;color:#222}
+#myyt .hero{background:linear-gradient(135deg,#7b2ff7,#f107a3);color:#fff;border-radius:14px;padding:26px;text-align:center}
+#myyt .hero h2{margin:0 0 6px;font-size:26px}
+#myyt .btn{display:inline-block;background:#fff;color:#c2185b;font-weight:bold;padding:10px 20px;border-radius:24px;text-decoration:none;margin-top:12px}
+#myyt .stats{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}
+#myyt .stat{flex:1;min-width:120px;background:#f6f3ff;border-radius:10px;padding:12px;text-align:center}
+#myyt .stat b{display:block;font-size:22px;color:#6a1b9a}
+#myyt .camp{background:#fff8e1;border-left:5px solid #ffb300;padding:10px 14px;border-radius:8px;margin:10px 0}
+#myyt input{width:100%;box-sizing:border-box;padding:10px;border:1px solid #ccc;border-radius:8px;font-size:15px}
+#myyt .chips{margin:10px 0}
+#myyt .chip{display:inline-block;border:1px solid #7b2ff7;color:#7b2ff7;border-radius:18px;padding:5px 12px;margin:3px;cursor:pointer;font-size:14px}
+#myyt .chip.on{background:#7b2ff7;color:#fff}
+#myyt .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+#myyt .card{border:1px solid #eee;border-radius:10px;overflow:hidden;background:#fff;box-shadow:0 1px 4px rgba(0,0,0,.08)}
+#myyt .card img{width:100%;display:block}
+#myyt .card .t{padding:8px 10px;font-weight:bold;font-size:14px}
+#myyt .card .m{padding:0 10px 8px;color:#666;font-size:12px}
+#myyt .card .a{padding:0 10px 10px;font-size:13px}
+#myyt .card a{color:#c2185b;text-decoration:none;margin-right:10px}
+#myyt .shop{background:#e8f5e9;border-radius:12px;padding:16px;margin:18px 0}
+</style>
+<div class="hero">
+  <h2>🎵 Nhạc sáng tác thầy Hùng</h2>
+  <div>Mái trường · Thầy cô · Tình bạn · Quê hương Nha Trang</div>
+  <a id="sub" class="btn" target="_blank" rel="noopener" href="https://www.youtube.com/@thayhungp?sub_confirmation=1">▶ Đăng ký kênh YouTube</a>
+</div>
+<div id="stats" class="stats"></div>
+<div id="camp"></div>
+<input id="q" placeholder="🔎 Tìm bài hát...">
+<div id="chips" class="chips"></div>
+<div id="grid" class="grid"></div>
+<div id="shop" class="shop" style="display:none"></div>
+<script>
+(function () {
+  var BASE = "https://raw.githubusercontent.com/pnhung72/myyoutube/main/data/public/";
+  var NAMES = {"mai-truong":"Mái trường","thay-co":"Thầy cô","tinh-ban":"Tình bạn","tinh-yeu":"Tình yêu","que-huong":"Quê hương","nuoc-mam":"Nước mắm YaTrang","khac":"Khác"};
+  var videos = [], topic = "all", query = "";
+  function j(f) { return fetch(BASE + f).then(function (r) { return r.json(); }); }
+  function el(tag, cls, txt) {
+    var e = document.createElement(tag);
+    if (cls) { e.className = cls; }
+    if (txt !== undefined) { e.textContent = txt; }
+    return e;
+  }
+  function num(n) { return Number(n).toLocaleString("vi-VN"); }
+  function render() {
+    var grid = document.getElementById("grid");
+    grid.textContent = "";
+    videos.filter(function (v) {
+      var okTopic = topic === "all" || v.topics.indexOf(topic) >= 0;
+      var okQuery = !query || v.title.toLowerCase().indexOf(query) >= 0;
+      return okTopic ? okQuery : false;
+    }).forEach(function (v) {
+      var card = el("div", "card");
+      var a = el("a"); a.href = v.url; a.target = "_blank"; a.rel = "noopener";
+      var img = el("img"); img.src = v.thumb; img.loading = "lazy"; img.alt = v.title;
+      a.appendChild(img);
+      card.appendChild(a);
+      card.appendChild(el("div", "t", v.title));
+      card.appendChild(el("div", "m", "👁 " + num(v.views) + " · " + v.published.slice(0, 10)));
+      var act = el("div", "a");
+      var w = el("a", "", "▶ Xem"); w.href = v.url; w.target = "_blank"; w.rel = "noopener";
+      var s = el("a", "", "Chia sẻ Facebook");
+      s.href = "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(v.url);
+      s.target = "_blank"; s.rel = "noopener";
+      act.appendChild(w); act.appendChild(s);
+      card.appendChild(act);
+      grid.appendChild(card);
+    });
+  }
+  function chips() {
+    var box = document.getElementById("chips");
+    var names = {};
+    videos.forEach(function (v) { v.topics.forEach(function (t) { names[t] = (names[t] || 0) + 1; }); });
+    var keys = ["all"].concat(Object.keys(names));
+    keys.forEach(function (k) {
+      var label = k === "all" ? "Tất cả (" + videos.length + ")" : (NAMES[k] || k) + " (" + names[k] + ")";
+      var c = el("span", k === topic ? "chip on" : "chip", label);
+      c.onclick = function () { topic = k; box.textContent = ""; chips(); render(); };
+      box.appendChild(c);
+    });
+  }
+  Promise.all([
+    j("videos.json"), j("channel.json"),
+    j("campaigns.json").catch(function () { return null; }),
+    j("site.json").catch(function () { return null; })
+  ]).then(function (d) {
+    videos = d[0];
+    var ch = d[1], st = document.getElementById("stats");
+    [["Video", ch.video_count], ["Lượt xem", ch.views], ["Đăng ký", ch.subscribers]].forEach(function (x) {
+      if (x[1] === null) { return; }
+      var b = el("div", "stat"); b.appendChild(el("b", "", num(x[1]))); b.appendChild(el("span", "", x[0]));
+      st.appendChild(b);
+    });
+    if (d[2]) {
+      d[2].upcoming.slice(0, 2).forEach(function (e) {
+        document.getElementById("camp").appendChild(el("div", "camp", "🎉 " + e.name + " - còn " + e.days_left + " ngày. " + e.idea));
+      });
+    }
+    if (d[3]) {
+      var shop = d[3].shop, link = shop.url || (shop.zalo ? "https://zalo.me/" + shop.zalo : "");
+      if (link) {
+        var box = document.getElementById("shop");
+        box.style.display = "block";
+        box.appendChild(el("b", "", "🐟 " + shop.name));
+        box.appendChild(el("p", "", shop.desc));
+        var a = el("a", "btn", "Đặt hàng"); a.href = link; a.target = "_blank"; a.rel = "noopener";
+        a.style.background = "#2e7d32"; a.style.color = "#fff";
+        box.appendChild(a);
+      }
+    }
+    chips(); render();
+  }).catch(function () {
+    document.getElementById("grid").textContent = "Không tải được dữ liệu. Kiểm tra repo GitHub đã công khai chưa.";
+  });
+  document.getElementById("q").oninput = function (e) { query = e.target.value.toLowerCase(); render(); };
+})();
+</script>
+</div>

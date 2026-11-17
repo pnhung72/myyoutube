@@ -1,0 +1,16 @@
+# Khóa bí mật - KHÔNG BAO GIỜ đưa lên GitHub
+secrets/
+client_secret*.json
+token*.json
+.env
+
+# Dữ liệu riêng tư
+data/private/
+backups/
+logs/
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db

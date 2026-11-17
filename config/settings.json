@@ -1,0 +1,29 @@
+{
+  "channel_handle": "@thayhungp",
+  "channel_id": "UCql0Wrj-4XyayExRuzaVO_g",
+  "blog_url": "https://thayhungp.blogspot.com",
+  "duplicate_threshold": 0.85,
+  "subscribers_override": null,
+  "watch_hours_12m": 0,
+  "watch_hours_28d": 0,
+  "shop": {
+    "name": "Nước mắm cốt cá cơm YaTrang",
+    "desc": "Cá cơm tươi và muối biển, ủ lâu theo phương pháp truyền thống Nha Trang, không hóa chất.",
+    "zalo": "",
+    "url": ""
+  },
+  "topics": {
+    "mai-truong": ["mái trường", "học trò", "sân trường", "tuổi học trò"],
+    "thay-co": ["thầy cô", "thầy giáo", "cô giáo", "20/11", "nhà giáo"],
+    "tinh-ban": ["tình bạn", "bạn bè", "bạn cũ"],
+    "tinh-yeu": ["tình yêu", "yêu thương"],
+    "que-huong": ["quê hương", "nha trang", "biển"],
+    "nuoc-mam": ["nước mắm", "yatrang", "cá cơm"]
+  },
+  "seasonal": [
+    {"name": "Ngày Phụ nữ Việt Nam", "month": 10, "day": 20, "idea": "Bài hát/Shorts tri ân mẹ, cô giáo, bạn nữ."},
+    {"name": "Ngày Nhà giáo Việt Nam", "month": 11, "day": 20, "idea": "Đăng lại bài về thầy cô, làm Shorts điệp khúc, viết bài trên blog kèm lời tri ân."},
+    {"name": "Quốc tế Phụ nữ", "month": 3, "day": 8, "idea": "Bài hát tình yêu/tri ân, nhắc quà tặng."},
+    {"name": "Khai giảng", "month": 9, "day": 5, "idea": "Bài về mái trường, ngày tựu trường; đăng trước 1-2 tuần."}
+  ]
+}
