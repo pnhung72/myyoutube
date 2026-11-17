@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T08:04:51+00:00",
+ "updated": "2026-11-17T08:05:30+00:00",
  "blog_items": 128,
  "with_video": 15,
  "without_video": [
@@ -1298,6 +1298,11 @@
    "views": 4
   },
   {
+   "title": "Bài 11. thực hành: đo gia tốc rơi tự do (2 tiết) | Vật lí 10",
+   "url": "https://www.youtube.com/watch?v=5suSeGROeFs",
+   "views": 3
+  },
+  {
    "title": "Bài 11. sóng điện từ (2 tiết) | Vật lí 11",
    "url": "https://www.youtube.com/watch?v=NOMhhjbC648",
    "views": 3
@@ -1333,16 +1338,6 @@
    "views": 3
   },
   {
-   "title": "Bài 11. thực hành: đo gia tốc rơi tự do (2 tiết) | Vật lí 10",
-   "url": "https://www.youtube.com/watch?v=5suSeGROeFs",
-   "views": 2
-  },
-  {
-   "title": "Bài 12. giao thoa sóng (2 tiết) | Vật lí 11",
-   "url": "https://www.youtube.com/watch?v=ckgpDnVFIbA",
-   "views": 2
-  },
-  {
    "title": "Bài 12. chuyển động ném (2 tiết) | Vật lí 10",
    "url": "https://www.youtube.com/watch?v=FsdkJT5cHUc",
    "views": 2
@@ -1356,6 +1351,11 @@
    "title": "Bài 1: trường hấp dẫn | Vật lí 11",
    "url": "https://www.youtube.com/watch?v=7ByVLNTx90g",
    "views": 2
+  },
+  {
+   "title": "Bài 12. giao thoa sóng (2 tiết) | Vật lí 11",
+   "url": "https://www.youtube.com/watch?v=ckgpDnVFIbA",
+   "views": 1
   },
   {
    "title": "Bài 15&16. ôn tập và kiểm tra giữa học kì i (2 tiết) | Vật lí 12",
