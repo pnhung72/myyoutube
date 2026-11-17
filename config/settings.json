@@ -13,12 +13,13 @@
     "url": ""
   },
   "topics": {
-    "mai-truong": ["mái trường", "học trò", "sân trường", "tuổi học trò"],
-    "thay-co": ["thầy cô", "thầy giáo", "cô giáo", "20/11", "nhà giáo"],
-    "tinh-ban": ["tình bạn", "bạn bè", "bạn cũ"],
-    "tinh-yeu": ["tình yêu", "yêu thương"],
-    "que-huong": ["quê hương", "nha trang", "biển"],
-    "nuoc-mam": ["nước mắm", "yatrang", "cá cơm"]
+    "Vật lí 10": ["vật lí 10"],
+    "Vật lí 11": ["vật lí 11"],
+    "Vật lí 12": ["vật lí 12"],
+    "Thực hành": ["thực hành"],
+    "Ôn tập": ["ôn tập", "ôn thi"],
+    "Nhạc sáng tác": ["nhạc sáng tác", "ca khúc", "bài hát", "mái trường", "thầy cô"],
+    "Nước mắm YaTrang": ["nước mắm", "yatrang"]
   },
   "seasonal": [
     {"name": "Ngày Phụ nữ Việt Nam", "month": 10, "day": 20, "idea": "Bài hát/Shorts tri ân mẹ, cô giáo, bạn nữ."},
