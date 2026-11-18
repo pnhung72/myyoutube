@@ -1,5 +1,16 @@
 [
  {
+  "title": "YouTobe-Thầy Hùng",
+  "url": "https://thayhungp.blogspot.com/2026/11/youtobe-thay-hung.html",
+  "labels": [
+   "youtobe"
+  ],
+  "published": "2026-11-17T00:46:15-08:00",
+  "updated": "2026-11-17T02:47:59-08:00",
+  "video_ids": [],
+  "has_cta": true
+ },
+ {
   "title": "Tư liệu dạy học ",
   "url": "https://thayhungp.blogspot.com/2026/11/tu-lieu-day-hoc.html",
   "labels": [
@@ -75,9 +86,9 @@
    "gd-dp"
   ],
   "published": "2026-09-28T02:21:57-07:00",
-  "updated": "2026-10-31T17:50:15-07:00",
+  "updated": "2026-11-17T01:36:41-08:00",
   "video_ids": [],
-  "has_cta": false
+  "has_cta": true
  },
  {
   "title": "Luyện tập ",
@@ -97,9 +108,9 @@
    "cd"
   ],
   "published": "2026-09-26T05:20:14-07:00",
-  "updated": "2026-10-31T17:51:18-07:00",
+  "updated": "2026-11-17T01:34:29-08:00",
   "video_ids": [],
-  "has_cta": false
+  "has_cta": true
  },
  {
   "title": "Chuyên đề bài tập vật lí",
@@ -121,9 +132,9 @@
    "bg"
   ],
   "published": "2026-09-26T00:57:02-07:00",
-  "updated": "2026-11-15T04:05:10-08:00",
+  "updated": "2026-11-17T01:29:00-08:00",
   "video_ids": [],
-  "has_cta": false
+  "has_cta": true
  },
  {
   "title": "facebook_article.html",
@@ -720,6 +731,15 @@
   "updated": "2025-08-05T18:02:40-07:00",
   "video_ids": [],
   "has_cta": false
+ },
+ {
+  "title": "YouTobe_Thầy Hùng",
+  "url": "https://thayhungp.blogspot.com/p/vat-li-thay-hungyoutobe.html",
+  "labels": [],
+  "published": "2026-11-17T00:34:39-08:00",
+  "updated": "2026-11-17T00:37:38-08:00",
+  "video_ids": [],
+  "has_cta": true
  },
  {
   "title": "YCCĐ_json",

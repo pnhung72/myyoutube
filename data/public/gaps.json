@@ -1,8 +1,12 @@
 {
- "updated": "2026-11-17T08:05:30+00:00",
- "blog_items": 128,
+ "updated": "2026-11-18T02:07:08+00:00",
+ "blog_items": 130,
  "with_video": 15,
  "without_video": [
+  {
+   "title": "YouTobe-Thầy Hùng",
+   "url": "https://thayhungp.blogspot.com/2026/11/youtobe-thay-hung.html"
+  },
   {
    "title": "Tư liệu dạy học ",
    "url": "https://thayhungp.blogspot.com/2026/11/tu-lieu-day-hoc.html"
@@ -198,10 +202,6 @@
   {
    "title": "Ý kiến",
    "url": "https://thayhungp.blogspot.com/2025/01/y-kien.html"
-  },
-  {
-   "title": "Kiểm tra lí 10",
-   "url": "https://thayhungp.blogspot.com/2025/01/kiem-tra-li-10.html"
   }
  ],
  "missing_cta": [
@@ -285,7 +285,7 @@
   {
    "title": "Khoan làm vòi cho chum mắm",
    "url": "https://www.youtube.com/watch?v=oOJwY5BIpNU",
-   "views": 1116
+   "views": 1118
   },
   {
    "title": "ngày 28 tháng 4, 2026",
@@ -298,9 +298,9 @@
    "views": 545
   },
   {
-   "title": "Dốc tình#cakhuc #dalat #sangtacnhac#doctinh#tinhyeu#quehuong#fingerstyle#gui #guitar#balad#solo",
+   "title": "Dốc tình -Sáng tác:Phan Ngọc Hùng",
    "url": "https://www.youtube.com/watch?v=AHFPt2mFCV0",
-   "views": 541
+   "views": 542
   },
   {
    "title": "Chả cá sống",
@@ -423,13 +423,13 @@
    "views": 169
   },
   {
-   "title": "ngày 25 tháng 4, 2026",
-   "url": "https://www.youtube.com/watch?v=NFmZEJlPxGs",
-   "views": 164
-  },
-  {
    "title": "Nước mắm nhỉ cá cơm nguyên chất truyền thống không hoá chất 100% tự nhiên",
    "url": "https://www.youtube.com/watch?v=V7nPRAovF7o",
+   "views": 166
+  },
+  {
+   "title": "ngày 25 tháng 4, 2026",
+   "url": "https://www.youtube.com/watch?v=NFmZEJlPxGs",
    "views": 164
   },
   {
@@ -473,9 +473,9 @@
    "views": 125
   },
   {
-   "title": "Nhớ  tháng 3",
+   "title": "Nhớ  tháng 3- Sáng tác :Phan Ngọc Hùng",
    "url": "https://www.youtube.com/watch?v=IN2JgvEvMcY",
-   "views": 121
+   "views": 124
   },
   {
    "title": "ngày 2 tháng 6, 2023",
@@ -543,6 +543,11 @@
    "views": 68
   },
   {
+   "title": "Bài 10. thực hành: đo tần số của sóng âm (2 tiết) | Vật lí 11",
+   "url": "https://www.youtube.com/watch?v=6kdF7aeNVEI",
+   "views": 66
+  },
+  {
    "title": "Mắm giáng sinh",
    "url": "https://www.youtube.com/watch?v=VILBGJS2lIs",
    "views": 64
@@ -553,14 +558,14 @@
    "views": 63
   },
   {
-   "title": "Nhớ tháng ba#cakhucmoi #tìnhyêu #trutinh",
+   "title": "Nhớ tháng ba- Sáng tác:Phan Ngọc Hùng",
    "url": "https://www.youtube.com/watch?v=z82xpDkv-3Q",
-   "views": 61
+   "views": 62
   },
   {
-   "title": "Dốc tình#cakhuc #dalat #sangtacnhac#doctinh#tinhyeu#quehuong#fingerstyle#gui #guitar#balad#solo",
+   "title": "Dốc tình -Sáng tác:Phan Ngọc Hùng",
    "url": "https://www.youtube.com/watch?v=TgnaJRNnEUc",
-   "views": 60
+   "views": 61
   },
   {
    "title": "Muối cá cơm",
@@ -586,11 +591,6 @@
    "title": "Ngọc biển autosave",
    "url": "https://www.youtube.com/watch?v=6hLHyAkI3pg",
    "views": 56
-  },
-  {
-   "title": "Bài 10. thực hành: đo tần số của sóng âm (2 tiết) | Vật lí 11",
-   "url": "https://www.youtube.com/watch?v=6kdF7aeNVEI",
-   "views": 52
   },
   {
    "title": "Nước mắm cốt cá cơm truyền thống",
@@ -623,6 +623,11 @@
    "views": 49
   },
   {
+   "title": "Bài 4. biến điệu (1 tiết) | Vật lí 11",
+   "url": "https://www.youtube.com/watch?v=N9unm8ua2gU",
+   "views": 47
+  },
+  {
    "title": "Bài 9. sóng ngang. sóng dọc. sự truyền năng lượng của sóng cơ (2 tiết) | Vật lí 11",
    "url": "https://www.youtube.com/watch?v=w3-YliZky9I",
    "views": 47
@@ -631,11 +636,6 @@
    "title": "Mắm cốt nhỉ cá cơm chai thủy tinh",
    "url": "https://www.youtube.com/watch?v=jvrQo8yzjWY",
    "views": 46
-  },
-  {
-   "title": "Bài 4. biến điệu (1 tiết) | Vật lí 11",
-   "url": "https://www.youtube.com/watch?v=N9unm8ua2gU",
-   "views": 45
   },
   {
    "title": "Khuyến mãi khủng chào hàng",
@@ -688,6 +688,16 @@
    "views": 41
   },
   {
+   "title": "Bài 11. thực hành: đo gia tốc rơi tự do (1 tiết) | Vật lí 10",
+   "url": "https://www.youtube.com/watch?v=W8w3BeG7JMo",
+   "views": 40
+  },
+  {
+   "title": "Bài 3. giới thiệu các ứng dụng của vật lí trong một số ngành nghề (1 tiết) | Vật lí 10",
+   "url": "https://www.youtube.com/watch?v=2gCLc7i4dV0",
+   "views": 40
+  },
+  {
    "title": "Nước mắm nhỉ cá cơm truyền thống yatrang",
    "url": "https://www.youtube.com/watch?v=Ouim8lResdk",
    "views": 40
@@ -706,16 +716,6 @@
    "title": "💎YaTrang mắm nhỉ cá cơm -Sản phẩm sạch chất lượng cao💎",
    "url": "https://www.youtube.com/watch?v=Qv0Hcfw6gWU",
    "views": 39
-  },
-  {
-   "title": "Bài 11. thực hành: đo gia tốc rơi tự do (1 tiết) | Vật lí 10",
-   "url": "https://www.youtube.com/watch?v=W8w3BeG7JMo",
-   "views": 38
-  },
-  {
-   "title": "Bài 3. giới thiệu các ứng dụng của vật lí trong một số ngành nghề (1 tiết) | Vật lí 10",
-   "url": "https://www.youtube.com/watch?v=2gCLc7i4dV0",
-   "views": 37
   },
   {
    "title": "💞 Nụ cười YaTrang",
@@ -738,6 +738,11 @@
    "views": 35
   },
   {
+   "title": "Huyền Thoại Linh Sơn-Sáng tác :Phan Ngọc Hùng",
+   "url": "https://www.youtube.com/watch?v=K_qBiu8rkMc",
+   "views": 34
+  },
+  {
    "title": "Video KeToan Pro",
    "url": "https://www.youtube.com/watch?v=dvlr0WdSSfs",
    "views": 34
@@ -746,11 +751,6 @@
    "title": "🔥Chuyện của YaTrang",
    "url": "https://www.youtube.com/watch?v=AWkvBq4tQcQ",
    "views": 34
-  },
-  {
-   "title": "Huyền Thoại Linh Sơn#tayninh #núibàđen #cakhucmoi #quêhương",
-   "url": "https://www.youtube.com/watch?v=K_qBiu8rkMc",
-   "views": 33
   },
   {
    "title": "Nước mắm cốt cá cơm truyền thống",
@@ -788,6 +788,11 @@
    "views": 30
   },
   {
+   "title": "Bài 2. cường độ trường hấp dẫn (1 tiết) | Vật lí 11",
+   "url": "https://www.youtube.com/watch?v=0LEWZ_vOLqA",
+   "views": 29
+  },
+  {
    "title": "Nước mắm cốt cá cơm truyền thống",
    "url": "https://www.youtube.com/watch?v=sR4hsutUxno",
    "views": 29
@@ -796,11 +801,6 @@
    "title": "Mắm cốt nhỉ cá cơm YaTrang",
    "url": "https://www.youtube.com/watch?v=9TEMgEhHP0w",
    "views": 29
-  },
-  {
-   "title": "Bài 2. cường độ trường hấp dẫn (1 tiết) | Vật lí 11",
-   "url": "https://www.youtube.com/watch?v=0LEWZ_vOLqA",
-   "views": 28
   },
   {
    "title": "ngày 20 tháng 5, 2026",
@@ -833,6 +833,16 @@
    "views": 26
   },
   {
+   "title": "Bài 5. tia x (1 tiết) | Vật lí 12",
+   "url": "https://www.youtube.com/watch?v=SHyTUUytG90",
+   "views": 25
+  },
+  {
+   "title": "Bài 9. chuyển động thẳng biến đổi đều (2 tiết) | Vật lí 10",
+   "url": "https://www.youtube.com/watch?v=xZbHmm321W0",
+   "views": 25
+  },
+  {
    "title": "Nước mắm cốt cá cơm truyền thống",
    "url": "https://www.youtube.com/watch?v=5vNMguY1Tys",
    "views": 25
@@ -846,11 +856,6 @@
    "title": "ngày 6 tháng 12, 2023",
    "url": "https://www.youtube.com/watch?v=zs5DtV8qVIU",
    "views": 25
-  },
-  {
-   "title": "Bài 9. chuyển động thẳng biến đổi đều (2 tiết) | Vật lí 10",
-   "url": "https://www.youtube.com/watch?v=xZbHmm321W0",
-   "views": 24
   },
   {
    "title": "Mắm loại 1",
@@ -874,7 +879,7 @@
   },
   {
    "title": "Bài 5. tia x (1 tiết) | Vật lí 12",
-   "url": "https://www.youtube.com/watch?v=SHyTUUytG90",
+   "url": "https://www.youtube.com/watch?v=wRX0i0UmOVU",
    "views": 23
   },
   {
@@ -891,11 +896,6 @@
    "title": "Sản phẩm mới của YaTrang",
    "url": "https://www.youtube.com/watch?v=bSQD33nbf5k",
    "views": 22
-  },
-  {
-   "title": "Bài 5. tia x (1 tiết) | Vật lí 12",
-   "url": "https://www.youtube.com/watch?v=wRX0i0UmOVU",
-   "views": 21
   },
   {
    "title": "ngày 2 tháng 7, 2024",
@@ -926,6 +926,11 @@
    "title": "IMG 1426",
    "url": "https://www.youtube.com/watch?v=thb_HcfEja8",
    "views": 21
+  },
+  {
+   "title": "Bến cũ con đò -Sáng tác :Phan Ngọc Hùng",
+   "url": "https://www.youtube.com/watch?v=-szdH7H9gt4",
+   "views": 20
   },
   {
    "title": "ngày 28 tháng 8, 2024",
@@ -988,6 +993,16 @@
    "views": 17
   },
   {
+   "title": "Bài 3. thế hấp dẫn và thế năng hấp dẫn (1 tiết) | Vật lí 11",
+   "url": "https://www.youtube.com/watch?v=RRP-EeQbCiE",
+   "views": 17
+  },
+  {
+   "title": "Huyền thoại Linh Sơn -Sáng tác:Phan Ngọc Hùng",
+   "url": "https://www.youtube.com/watch?v=qBA-gqctOu0",
+   "views": 17
+  },
+  {
    "title": "Nước mắm cốt cá cơm truyền thống",
    "url": "https://www.youtube.com/watch?v=YH_4Ow3VJyM",
    "views": 17
@@ -1001,11 +1016,6 @@
    "title": "Nước mắm nhỉ cá cơm truyền thống yatrang",
    "url": "https://www.youtube.com/watch?v=Z2Q0qLEnaqo",
    "views": 17
-  },
-  {
-   "title": "Huyền thoại Linh Sơn#cakhucmoi  #khanhhoa #nhatrang #sangtac#balad#tinhyeu#quehuong#gui #fingerstyle",
-   "url": "https://www.youtube.com/watch?v=qBA-gqctOu0",
-   "views": 16
   },
   {
    "title": "ngày 22 tháng 9, 2023",
@@ -1028,11 +1038,6 @@
    "views": 15
   },
   {
-   "title": "Bài 3. thế hấp dẫn và thế năng hấp dẫn (1 tiết) | Vật lí 11",
-   "url": "https://www.youtube.com/watch?v=RRP-EeQbCiE",
-   "views": 14
-  },
-  {
    "title": "Tính toán chi phí",
    "url": "https://www.youtube.com/watch?v=OiPSYqIZfLk",
    "views": 14
@@ -1051,6 +1056,11 @@
    "title": "Nước mắm cốt cá cơm truyền thống YaTrang",
    "url": "https://www.youtube.com/watch?v=a7X6W71QzqM",
    "views": 14
+  },
+  {
+   "title": "Bài 11. thực hành: đo gia tốc rơi tự do (2 tiết) | Vật lí 10",
+   "url": "https://www.youtube.com/watch?v=5suSeGROeFs",
+   "views": 13
   },
   {
    "title": "Bài 2. lưỡng tính sóng hạt (2 tiết) | Vật lí 12",
@@ -1078,6 +1088,11 @@
    "views": 12
   },
   {
+   "title": "Bài 2. giới thiệu các lĩnh vực nghiên cứu trong vật lí học (4 tiết) | Vật lí 10",
+   "url": "https://www.youtube.com/watch?v=w9s4ZILy7eM",
+   "views": 11
+  },
+  {
    "title": "Nước mắm cốt cá cơm truyền thống",
    "url": "https://www.youtube.com/watch?v=-yAzP_x7km8",
    "views": 11
@@ -1093,8 +1108,8 @@
    "views": 11
   },
   {
-   "title": "Bài 2. giới thiệu các lĩnh vực nghiên cứu trong vật lí học (4 tiết) | Vật lí 10",
-   "url": "https://www.youtube.com/watch?v=w9s4ZILy7eM",
+   "title": "Bài 12. chuyển động ném (2 tiết) | Vật lí 10",
+   "url": "https://www.youtube.com/watch?v=FsdkJT5cHUc",
    "views": 10
   },
   {
@@ -1178,6 +1193,11 @@
    "views": 8
   },
   {
+   "title": "Bài 13. tổng hợp và phân tích lực. cân bằng lực (2 tiết) | Vật lí 10",
+   "url": "https://www.youtube.com/watch?v=mRN75jT84wI",
+   "views": 8
+  },
+  {
    "title": "ngày 25 tháng 1, 2024",
    "url": "https://www.youtube.com/watch?v=vMCFvODTEWI",
    "views": 8
@@ -1188,13 +1208,13 @@
    "views": 8
   },
   {
-   "title": "Bài 6. thực hành: đo tốc độ của vật chuyển động (2 tiết) | Vật lí 10",
-   "url": "https://www.youtube.com/watch?v=EIwJJZLYAEA",
+   "title": "Bài 12. giao thoa sóng (2 tiết) | Vật lí 11",
+   "url": "https://www.youtube.com/watch?v=ckgpDnVFIbA",
    "views": 7
   },
   {
-   "title": "Bài 13. tổng hợp và phân tích lực. cân bằng lực (2 tiết) | Vật lí 10",
-   "url": "https://www.youtube.com/watch?v=mRN75jT84wI",
+   "title": "Bài 6. thực hành: đo tốc độ của vật chuyển động (2 tiết) | Vật lí 10",
+   "url": "https://www.youtube.com/watch?v=EIwJJZLYAEA",
    "views": 7
   },
   {
@@ -1223,6 +1243,16 @@
    "views": 7
   },
   {
+   "title": "Cánh phượng rơi -Sáng tác:Phan Ngọc Hùng",
+   "url": "https://www.youtube.com/watch?v=upMuKvdeO6s",
+   "views": 6
+  },
+  {
+   "title": "Dốc tình- Sáng tác :Phan Ngọc Hùng",
+   "url": "https://www.youtube.com/watch?v=ZhNrHcdgH6w",
+   "views": 6
+  },
+  {
    "title": "Quy trình làm nước mắm cá cơm",
    "url": "https://www.youtube.com/watch?v=c6yPoBCVYoU",
    "views": 6
@@ -1230,11 +1260,6 @@
   {
    "title": "Bài 3: vận tốc, gia tốc trong dao động điều hòa (2 tiết) | Vật lí 11",
    "url": "https://www.youtube.com/watch?v=WtITU311SvY",
-   "views": 5
-  },
-  {
-   "title": "Dốc tình#dalat #cakhucmoi #tìnhyêu #quehuong",
-   "url": "https://www.youtube.com/watch?v=ZhNrHcdgH6w",
    "views": 5
   },
   {
@@ -1278,13 +1303,18 @@
    "views": 4
   },
   {
-   "title": "Bài 7. bài tập về sự chuyển hóa năng lượng trong dđđh (2 tiết) | Vật lí 11",
-   "url": "https://www.youtube.com/watch?v=CxFexaj3qoY",
+   "title": "Bài 2: mô tả dao động điều hòa (2 tiết) | Vật lí 11",
+   "url": "https://www.youtube.com/watch?v=yHUqdt8cfcA",
    "views": 4
   },
   {
-   "title": "Cánh phượng rơi #cakhucmoi #hoctro #tìnhyêu",
-   "url": "https://www.youtube.com/watch?v=upMuKvdeO6s",
+   "title": "Bài 6. dao động tắt dần. dao động cưỡng bức. hiện tượng cộng hưởng (2 tiết) | Vật lí 11",
+   "url": "https://www.youtube.com/watch?v=ZEKVdJabJxo",
+   "views": 4
+  },
+  {
+   "title": "Bài 7. bài tập về sự chuyển hóa năng lượng trong dđđh (2 tiết) | Vật lí 11",
+   "url": "https://www.youtube.com/watch?v=CxFexaj3qoY",
    "views": 4
   },
   {
@@ -1296,11 +1326,6 @@
    "title": "Kiểm tra và nhận biết nước mắm truyền thống",
    "url": "https://www.youtube.com/watch?v=XUzKTAJAJGc",
    "views": 4
-  },
-  {
-   "title": "Bài 11. thực hành: đo gia tốc rơi tự do (2 tiết) | Vật lí 10",
-   "url": "https://www.youtube.com/watch?v=5suSeGROeFs",
-   "views": 3
   },
   {
    "title": "Bài 11. sóng điện từ (2 tiết) | Vật lí 11",
@@ -1318,16 +1343,6 @@
    "views": 3
   },
   {
-   "title": "Bài 2: mô tả dao động điều hòa (2 tiết) | Vật lí 11",
-   "url": "https://www.youtube.com/watch?v=yHUqdt8cfcA",
-   "views": 3
-  },
-  {
-   "title": "Bài 6. dao động tắt dần. dao động cưỡng bức. hiện tượng cộng hưởng (2 tiết) | Vật lí 11",
-   "url": "https://www.youtube.com/watch?v=ZEKVdJabJxo",
-   "views": 3
-  },
-  {
    "title": "ngày 25 tháng 7, 2023",
    "url": "https://www.youtube.com/watch?v=kWcf3EWYY7Q",
    "views": 3
@@ -1338,8 +1353,8 @@
    "views": 3
   },
   {
-   "title": "Bài 12. chuyển động ném (2 tiết) | Vật lí 10",
-   "url": "https://www.youtube.com/watch?v=FsdkJT5cHUc",
+   "title": "Bài 9. hiệu ứng quang điện và năng lượng của photon (6 tiết) | Vật lí 12",
+   "url": "https://www.youtube.com/watch?v=KqvxEzaiSdc",
    "views": 2
   },
   {
@@ -1351,11 +1366,6 @@
    "title": "Bài 1: trường hấp dẫn | Vật lí 11",
    "url": "https://www.youtube.com/watch?v=7ByVLNTx90g",
    "views": 2
-  },
-  {
-   "title": "Bài 12. giao thoa sóng (2 tiết) | Vật lí 11",
-   "url": "https://www.youtube.com/watch?v=ckgpDnVFIbA",
-   "views": 1
   },
   {
    "title": "Bài 15&16. ôn tập và kiểm tra giữa học kì i (2 tiết) | Vật lí 12",
@@ -1376,11 +1386,6 @@
    "title": "Bài 5. động năng. thế năng. sự chuyển hóa năng lượng trong dao động điều hòa (2 tiết) | Vật lí 11",
    "url": "https://www.youtube.com/watch?v=ZNnQuCIeI2Y",
    "views": 1
-  },
-  {
-   "title": "Bài 9. hiệu ứng quang điện và năng lượng của photon (6 tiết) | Vật lí 12",
-   "url": "https://www.youtube.com/watch?v=KqvxEzaiSdc",
-   "views": 0
   },
   {
    "title": "Bài 7. bài tập về vật lí nhiệt (2 tiết) | Vật lí 12",
