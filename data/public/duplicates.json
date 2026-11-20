@@ -2,6 +2,16 @@
  {
   "similarity": 1.0,
   "same_duration": false,
+  "keep": "6kdF7aeNVEI",
+  "keep_title": "Bài 10. thực hành: đo tần số của sóng âm (2 tiết) | Vật lí 11",
+  "keep_views": 77,
+  "review": "Qup4dw3FCDY",
+  "review_title": "Bài 10. thực hành đo tần số của sóng âm (2 tiết) | Vật lí 11",
+  "review_views": 3
+ },
+ {
+  "similarity": 1.0,
+  "same_duration": false,
   "keep": "oFu1IaMIKbM",
   "keep_title": "Bài 4. vùng năng lượng của tinh thể chất rắn (3 tiết) | Vật lí 12",
   "keep_views": 20,
@@ -17,7 +27,7 @@
   "keep_views": 26,
   "review": "wRX0i0UmOVU",
   "review_title": "Bài 5. tia x (1 tiết) | Vật lí 12",
-  "review_views": 24
+  "review_views": 26
  },
  {
   "similarity": 1.0,
@@ -67,7 +77,7 @@
   "keep_views": 61,
   "review": "ZhNrHcdgH6w",
   "review_title": "Dốc tình- Sáng tác :Phan Ngọc Hùng",
-  "review_views": 7
+  "review_views": 8
  },
  {
   "similarity": 1.0,
@@ -77,17 +87,17 @@
   "keep_views": 542,
   "review": "ZhNrHcdgH6w",
   "review_title": "Dốc tình- Sáng tác :Phan Ngọc Hùng",
-  "review_views": 7
+  "review_views": 8
  },
  {
   "similarity": 1.0,
   "same_duration": false,
   "keep": "K_qBiu8rkMc",
   "keep_title": "Huyền Thoại Linh Sơn-Sáng tác :Phan Ngọc Hùng",
-  "keep_views": 34,
+  "keep_views": 35,
   "review": "qBA-gqctOu0",
   "review_title": "Huyền thoại Linh Sơn -Sáng tác:Phan Ngọc Hùng",
-  "review_views": 17
+  "review_views": 18
  },
  {
   "similarity": 1.0,
@@ -1197,7 +1207,7 @@
   "keep_views": 42,
   "review": "5suSeGROeFs",
   "review_title": "Bài 11. thực hành: đo gia tốc rơi tự do (2 tiết) | Vật lí 10",
-  "review_views": 24
+  "review_views": 28
  },
  {
   "similarity": 0.98,
@@ -1247,7 +1257,7 @@
   "keep_views": 124,
   "review": "z82xpDkv-3Q",
   "review_title": "Nhớ tháng ba- Sáng tác:Phan Ngọc Hùng",
-  "review_views": 62
+  "review_views": 64
  },
  {
   "similarity": 0.96,
@@ -4074,7 +4084,7 @@
   "same_duration": false,
   "keep": "ckgpDnVFIbA",
   "keep_title": "Bài 12. giao thoa sóng (2 tiết) | Vật lí 11",
-  "keep_views": 8,
+  "keep_views": 10,
   "review": "fOipgKZIyWQ",
   "review_title": "Bài 8. mô tả sóng (2 tiết) | Vật lí 11",
   "review_views": 7
@@ -8104,10 +8114,10 @@
   "same_duration": true,
   "keep": "upMuKvdeO6s",
   "keep_title": "Cánh phượng rơi -Sáng tác:Phan Ngọc Hùng",
-  "keep_views": 7,
+  "keep_views": 9,
   "review": "ZhNrHcdgH6w",
   "review_title": "Dốc tình- Sáng tác :Phan Ngọc Hùng",
-  "review_views": 7
+  "review_views": 8
  },
  {
   "similarity": 0.76,
@@ -8117,7 +8127,7 @@
   "keep_views": 542,
   "review": "upMuKvdeO6s",
   "review_title": "Cánh phượng rơi -Sáng tác:Phan Ngọc Hùng",
-  "review_views": 7
+  "review_views": 9
  },
  {
   "similarity": 0.76,
@@ -8127,7 +8137,7 @@
   "keep_views": 61,
   "review": "K_qBiu8rkMc",
   "review_title": "Huyền Thoại Linh Sơn-Sáng tác :Phan Ngọc Hùng",
-  "review_views": 34
+  "review_views": 35
  },
  {
   "similarity": 0.76,
@@ -8198,6 +8208,16 @@
   "review": "yHUqdt8cfcA",
   "review_title": "Bài 2: mô tả dao động điều hòa (2 tiết) | Vật lí 11",
   "review_views": 4
+ },
+ {
+  "similarity": 0.67,
+  "same_duration": true,
+  "keep": "0LEWZ_vOLqA",
+  "keep_title": "Bài 2. cường độ trường hấp dẫn (1 tiết) | Vật lí 11",
+  "keep_views": 29,
+  "review": "Qup4dw3FCDY",
+  "review_title": "Bài 10. thực hành đo tần số của sóng âm (2 tiết) | Vật lí 11",
+  "review_views": 3
  },
  {
   "similarity": 0.66,
@@ -8274,7 +8294,7 @@
   "same_duration": true,
   "keep": "2gCLc7i4dV0",
   "keep_title": "Bài 3. giới thiệu các ứng dụng của vật lí trong một số ngành nghề (1 tiết) | Vật lí 10",
-  "keep_views": 40,
+  "keep_views": 43,
   "review": "RRP-EeQbCiE",
   "review_title": "Bài 3. thế hấp dẫn và thế năng hấp dẫn (1 tiết) | Vật lí 11",
   "review_views": 22
