@@ -1,13 +1,13 @@
 [
  {
   "similarity": 1.0,
-  "same_duration": false,
-  "keep": "6kdF7aeNVEI",
-  "keep_title": "Bài 10. thực hành: đo tần số của sóng âm (2 tiết) | Vật lí 11",
-  "keep_views": 77,
-  "review": "Qup4dw3FCDY",
-  "review_title": "Bài 10. thực hành đo tần số của sóng âm (2 tiết) | Vật lí 11",
-  "review_views": 3
+  "same_duration": true,
+  "keep": "Pa4w_lT57z0",
+  "keep_title": "Chuyên đề bài tập Vật lí 10: Chuyển động thẳng đều",
+  "keep_views": 3,
+  "review": "d8fdDrBh6x0",
+  "review_title": "Chuyên đề bài tập Vật lí 10: Chuyển động thẳng đều",
+  "review_views": 1
  },
  {
   "similarity": 1.0,
@@ -24,10 +24,10 @@
   "same_duration": false,
   "keep": "SHyTUUytG90",
   "keep_title": "Bài 5. tia x (1 tiết) | Vật lí 12",
-  "keep_views": 26,
+  "keep_views": 27,
   "review": "wRX0i0UmOVU",
   "review_title": "Bài 5. tia x (1 tiết) | Vật lí 12",
-  "review_views": 26
+  "review_views": 27
  },
  {
   "similarity": 1.0,
@@ -1202,16 +1202,6 @@
  {
   "similarity": 0.98,
   "same_duration": false,
-  "keep": "W8w3BeG7JMo",
-  "keep_title": "Bài 11. thực hành: đo gia tốc rơi tự do (1 tiết) | Vật lí 10",
-  "keep_views": 42,
-  "review": "5suSeGROeFs",
-  "review_title": "Bài 11. thực hành: đo gia tốc rơi tự do (2 tiết) | Vật lí 10",
-  "review_views": 28
- },
- {
-  "similarity": 0.98,
-  "same_duration": false,
   "keep": "VkeWd9WG33Y",
   "keep_title": "Bài 15&16. ôn tập và kiểm tra giữa học kì i (2 tiết) | Vật lí 10",
   "keep_views": 4,
@@ -1912,6 +1902,26 @@
  {
   "similarity": 0.92,
   "same_duration": false,
+  "keep": "6kdF7aeNVEI",
+  "keep_title": "Bài 10. thực hành: đo tần số của sóng âm (2 tiết) | Vật lí 11",
+  "keep_views": 88,
+  "review": "Qup4dw3FCDY",
+  "review_title": "Bài 10. thực hành đo tần số của sóng âm (2 tiết) | Vật lí 11 Chương 2",
+  "review_views": 10
+ },
+ {
+  "similarity": 0.92,
+  "same_duration": false,
+  "keep": "yHUqdt8cfcA",
+  "keep_title": "Bài 2: mô tả dao động điều hòa (2 tiết) | Vật lí 11 Chương 1",
+  "keep_views": 4,
+  "review": "tPbvWbAseOI",
+  "review_title": "Bài 1. dao động điều hòa (2 tiết) | Vật lí 11 Chương 1",
+  "review_views": 1
+ },
+ {
+  "similarity": 0.92,
+  "same_duration": false,
   "keep": "Bkn7Hqdlrto",
   "keep_title": "ngày 2 tháng 7, 2024",
   "keep_views": 21,
@@ -2272,12 +2282,22 @@
  {
   "similarity": 0.91,
   "same_duration": false,
-  "keep": "yHUqdt8cfcA",
-  "keep_title": "Bài 2: mô tả dao động điều hòa (2 tiết) | Vật lí 11",
-  "keep_views": 4,
-  "review": "tPbvWbAseOI",
-  "review_title": "Bài 1. dao động điều hòa (2 tiết) | Vật lí 11",
-  "review_views": 1
+  "keep": "W8w3BeG7JMo",
+  "keep_title": "Bài 11. thực hành: đo gia tốc rơi tự do (1 tiết) | Vật lí 10",
+  "keep_views": 42,
+  "review": "5suSeGROeFs",
+  "review_title": "Bài 11. thực hành: đo gia tốc rơi tự do (2 tiết) | Vật lí 10 Chương 2",
+  "review_views": 30
+ },
+ {
+  "similarity": 0.9,
+  "same_duration": false,
+  "keep": "ckgpDnVFIbA",
+  "keep_title": "Bài 12. giao thoa sóng (2 tiết) | Vật lí 11 Chương 2",
+  "keep_views": 11,
+  "review": "fOipgKZIyWQ",
+  "review_title": "Bài 8. mô tả sóng (2 tiết) | Vật lí 11 Chương 2",
+  "review_views": 7
  },
  {
   "similarity": 0.9,
@@ -2307,7 +2327,7 @@
   "keep_views": 502,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.9,
@@ -2317,7 +2337,7 @@
   "keep_views": 580,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.9,
@@ -2327,7 +2347,7 @@
   "keep_views": 265,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.9,
@@ -2337,7 +2357,7 @@
   "keep_views": 219,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.9,
@@ -2347,7 +2367,7 @@
   "keep_views": 164,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.9,
@@ -2357,7 +2377,7 @@
   "keep_views": 353,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.9,
@@ -3158,6 +3178,16 @@
   "review": "kWcf3EWYY7Q",
   "review_title": "ngày 25 tháng 7, 2023",
   "review_views": 3
+ },
+ {
+  "similarity": 0.89,
+  "same_duration": false,
+  "keep": "yHUqdt8cfcA",
+  "keep_title": "Bài 2: mô tả dao động điều hòa (2 tiết) | Vật lí 11 Chương 1",
+  "keep_views": 4,
+  "review": "U6Gp0DnCmK0",
+  "review_title": "Bài 4: bài tập về dao động điều hòa (1 tiết) | Vật lí 11 Chương 1",
+  "review_views": 2
  },
  {
   "similarity": 0.89,
@@ -4082,29 +4112,9 @@
  {
   "similarity": 0.87,
   "same_duration": false,
-  "keep": "ckgpDnVFIbA",
-  "keep_title": "Bài 12. giao thoa sóng (2 tiết) | Vật lí 11",
-  "keep_views": 10,
-  "review": "fOipgKZIyWQ",
-  "review_title": "Bài 8. mô tả sóng (2 tiết) | Vật lí 11",
-  "review_views": 7
- },
- {
-  "similarity": 0.87,
-  "same_duration": false,
-  "keep": "yHUqdt8cfcA",
-  "keep_title": "Bài 2: mô tả dao động điều hòa (2 tiết) | Vật lí 11",
-  "keep_views": 4,
-  "review": "U6Gp0DnCmK0",
-  "review_title": "Bài 4: bài tập về dao động điều hòa (1 tiết) | Vật lí 11",
-  "review_views": 2
- },
- {
-  "similarity": 0.87,
-  "same_duration": false,
   "keep": "QvdAub9QhOY",
   "keep_title": "ngày 20 tháng 5, 2026",
-  "keep_views": 28,
+  "keep_views": 31,
   "review": "Bkn7Hqdlrto",
   "review_title": "ngày 2 tháng 7, 2024",
   "review_views": 21
@@ -4114,7 +4124,7 @@
   "same_duration": false,
   "keep": "QvdAub9QhOY",
   "keep_title": "ngày 20 tháng 5, 2026",
-  "keep_views": 28,
+  "keep_views": 31,
   "review": "waVXJZSpl-8",
   "review_title": "ngày 8 tháng 5, 2024",
   "review_views": 9
@@ -4127,14 +4137,14 @@
   "keep_views": 41,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.87,
   "same_duration": false,
   "keep": "QvdAub9QhOY",
   "keep_title": "ngày 20 tháng 5, 2026",
-  "keep_views": 28,
+  "keep_views": 31,
   "review": "L2bUNM7Ose4",
   "review_title": "ngày 2 tháng 9, 2023",
   "review_views": 10
@@ -4147,7 +4157,7 @@
   "keep_views": 119,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.87,
@@ -5322,6 +5332,16 @@
  {
   "similarity": 0.86,
   "same_duration": false,
+  "keep": "U6Gp0DnCmK0",
+  "keep_title": "Bài 4: bài tập về dao động điều hòa (1 tiết) | Vật lí 11 Chương 1",
+  "keep_views": 2,
+  "review": "tPbvWbAseOI",
+  "review_title": "Bài 1. dao động điều hòa (2 tiết) | Vật lí 11 Chương 1",
+  "review_views": 1
+ },
+ {
+  "similarity": 0.86,
+  "same_duration": false,
   "keep": "KuHqNLlOAbg",
   "keep_title": "Ha Ha chả cá",
   "keep_views": 545,
@@ -5484,7 +5504,7 @@
   "same_duration": false,
   "keep": "QvdAub9QhOY",
   "keep_title": "ngày 20 tháng 5, 2026",
-  "keep_views": 28,
+  "keep_views": 31,
   "review": "DDIOuV5APr4",
   "review_title": "ngày 28 tháng 8, 2024",
   "review_views": 20
@@ -5497,7 +5517,7 @@
   "keep_views": 80,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.85,
@@ -5507,7 +5527,7 @@
   "keep_views": 480,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.85,
@@ -5517,14 +5537,14 @@
   "keep_views": 35,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.85,
   "same_duration": false,
   "keep": "QvdAub9QhOY",
   "keep_title": "ngày 20 tháng 5, 2026",
-  "keep_views": 28,
+  "keep_views": 31,
   "review": "omzJPOVlpZM",
   "review_title": "ngày 27 tháng 3, 2024",
   "review_views": 25
@@ -5534,7 +5554,7 @@
   "same_duration": false,
   "keep": "QvdAub9QhOY",
   "keep_title": "ngày 20 tháng 5, 2026",
-  "keep_views": 28,
+  "keep_views": 31,
   "review": "vMCFvODTEWI",
   "review_title": "ngày 25 tháng 1, 2024",
   "review_views": 8
@@ -5547,7 +5567,7 @@
   "keep_views": 33,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.85,
@@ -5557,14 +5577,14 @@
   "keep_views": 49,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.85,
   "same_duration": false,
   "keep": "QvdAub9QhOY",
   "keep_title": "ngày 20 tháng 5, 2026",
-  "keep_views": 28,
+  "keep_views": 31,
   "review": "yxQdQglTDfE",
   "review_title": "ngày 22 tháng 9, 2023",
   "review_views": 16
@@ -5574,7 +5594,7 @@
   "same_duration": false,
   "keep": "QvdAub9QhOY",
   "keep_title": "ngày 20 tháng 5, 2026",
-  "keep_views": 28,
+  "keep_views": 31,
   "review": "kWcf3EWYY7Q",
   "review_title": "ngày 25 tháng 7, 2023",
   "review_views": 3
@@ -5584,7 +5604,7 @@
   "same_duration": false,
   "keep": "QvdAub9QhOY",
   "keep_title": "ngày 20 tháng 5, 2026",
-  "keep_views": 28,
+  "keep_views": 31,
   "review": "6AbZN4vLM7k",
   "review_title": "ngày 21 tháng 6, 2023",
   "review_views": 9
@@ -5597,14 +5617,14 @@
   "keep_views": 41,
   "review": "QvdAub9QhOY",
   "review_title": "ngày 20 tháng 5, 2026",
-  "review_views": 28
+  "review_views": 31
  },
  {
   "similarity": 0.85,
   "same_duration": false,
   "keep": "QvdAub9QhOY",
   "keep_title": "ngày 20 tháng 5, 2026",
-  "keep_views": 28,
+  "keep_views": 31,
   "review": "E-OowNfZYZw",
   "review_title": "ngày 27 tháng 7, 2022",
   "review_views": 9
@@ -8152,6 +8172,16 @@
  {
   "similarity": 0.74,
   "same_duration": true,
+  "keep": "uBFBjnvUD1M",
+  "keep_title": "Bài 4. nhiệt dung riêng (2 tiết) | Vật lí 12 Chương 1",
+  "keep_views": 9,
+  "review": "yHUqdt8cfcA",
+  "review_title": "Bài 2: mô tả dao động điều hòa (2 tiết) | Vật lí 11 Chương 1",
+  "review_views": 4
+ },
+ {
+  "similarity": 0.74,
+  "same_duration": true,
   "keep": "EduTnxb6hjM",
   "keep_title": "Nước mắm YaTrang",
   "keep_views": 201,
@@ -8200,46 +8230,6 @@
   "review_views": 14
  },
  {
-  "similarity": 0.68,
-  "same_duration": true,
-  "keep": "uBFBjnvUD1M",
-  "keep_title": "Bài 4. nhiệt dung riêng (2 tiết) | Vật lí 12",
-  "keep_views": 9,
-  "review": "yHUqdt8cfcA",
-  "review_title": "Bài 2: mô tả dao động điều hòa (2 tiết) | Vật lí 11",
-  "review_views": 4
- },
- {
-  "similarity": 0.67,
-  "same_duration": true,
-  "keep": "0LEWZ_vOLqA",
-  "keep_title": "Bài 2. cường độ trường hấp dẫn (1 tiết) | Vật lí 11",
-  "keep_views": 29,
-  "review": "Qup4dw3FCDY",
-  "review_title": "Bài 10. thực hành đo tần số của sóng âm (2 tiết) | Vật lí 11",
-  "review_views": 3
- },
- {
-  "similarity": 0.66,
-  "same_duration": true,
-  "keep": "u_VuhbGQHmY",
-  "keep_title": "Bài 3. quang phổ vạch của nguyên tử (3 tiết) | Vật lí 12",
-  "keep_views": 8,
-  "review": "5hkh0Q8lUvM",
-  "review_title": "Bài 7. bài tập về vật lí nhiệt (2 tiết) | Vật lí 12",
-  "review_views": 0
- },
- {
-  "similarity": 0.65,
-  "same_duration": true,
-  "keep": "R0GVdZjywLo",
-  "keep_title": "Bài 15. ôn tập và kiểm tra giữa kì 1 (2 tiết) | Vật lí 11",
-  "keep_views": 4,
-  "review": "tPbvWbAseOI",
-  "review_title": "Bài 1. dao động điều hòa (2 tiết) | Vật lí 11",
-  "review_views": 1
- },
- {
   "similarity": 0.64,
   "same_duration": true,
   "keep": "W8w3BeG7JMo",
@@ -8250,14 +8240,14 @@
   "review_views": 4
  },
  {
-  "similarity": 0.63,
+  "similarity": 0.62,
   "same_duration": true,
-  "keep": "gBMrjJUxAyY",
-  "keep_title": "Bài 9. định luật boyle (3 tiết) | Vật lí 12",
-  "keep_views": 12,
-  "review": "yVej0RBogQ4",
-  "review_title": "Bài 3. quang phổ vạch của nguyên tử (3 tiết) | Vật lí 12",
-  "review_views": 4
+  "keep": "0LEWZ_vOLqA",
+  "keep_title": "Bài 2. cường độ trường hấp dẫn (1 tiết) | Vật lí 11",
+  "keep_views": 31,
+  "review": "Qup4dw3FCDY",
+  "review_title": "Bài 10. thực hành đo tần số của sóng âm (2 tiết) | Vật lí 11 Chương 2",
+  "review_views": 10
  },
  {
   "similarity": 0.62,
@@ -8275,16 +8265,6 @@
   "keep": "COONgf1fjhg",
   "keep_title": "Bài 2. lưỡng tính sóng hạt (2 tiết) | Vật lí 12",
   "keep_views": 13,
-  "review": "7JO3z1ObHjE",
-  "review_title": "Bài 3: thực hành tính sai số trong phép đo. ghi kết quả đo (1 tiết) | Vật lí 10",
-  "review_views": 3
- },
- {
-  "similarity": 0.61,
-  "same_duration": true,
-  "keep": "COONgf1fjhg",
-  "keep_title": "Bài 2. lưỡng tính sóng hạt (2 tiết) | Vật lí 12",
-  "keep_views": 13,
   "review": "f6kKDp2LHII",
   "review_title": "Bài 5. tốc độ và vận tốc (2 tiết) | Vật lí 10",
   "review_views": 7
@@ -8294,9 +8274,19 @@
   "same_duration": true,
   "keep": "2gCLc7i4dV0",
   "keep_title": "Bài 3. giới thiệu các ứng dụng của vật lí trong một số ngành nghề (1 tiết) | Vật lí 10",
-  "keep_views": 43,
+  "keep_views": 44,
   "review": "RRP-EeQbCiE",
   "review_title": "Bài 3. thế hấp dẫn và thế năng hấp dẫn (1 tiết) | Vật lí 11",
-  "review_views": 22
+  "review_views": 24
+ },
+ {
+  "similarity": 0.6,
+  "same_duration": true,
+  "keep": "u_VuhbGQHmY",
+  "keep_title": "Bài 3. quang phổ vạch của nguyên tử (3 tiết) | Vật lí 12",
+  "keep_views": 8,
+  "review": "5hkh0Q8lUvM",
+  "review_title": "Bài 7. bài tập về vật lí nhiệt (2 tiết) | Vật lí 12 Chương 1",
+  "review_views": 0
  }
 ]

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:39:00+00:00",
- "median_views": 25.0,
+ "updated": "2026-11-21T01:04:45+00:00",
+ "median_views": 24.5,
  "comment_rate_pct": 0.075,
  "like_rate_pct": 0.39,
  "top": [
@@ -22,7 +22,7 @@
   {
    "id": "oOJwY5BIpNU",
    "title": "Khoan làm vòi cho chum mắm",
-   "views": 1119
+   "views": 1121
   },
   {
    "id": "H_cb5Rdc9i8",
@@ -86,7 +86,7 @@
   {
    "topic": "Nước mắm YaTrang",
    "videos": 128,
-   "avg_views": 506
+   "avg_views": 507
   },
   {
    "topic": "khac",
@@ -96,16 +96,16 @@
   {
    "topic": "Nhạc sáng tác",
    "videos": 1,
-   "avg_views": 36
-  },
-  {
-   "topic": "Vật lí 11",
-   "videos": 20,
-   "avg_views": 19
+   "avg_views": 45
   },
   {
    "topic": "Thực hành",
    "videos": 14,
+   "avg_views": 20
+  },
+  {
+   "topic": "Vật lí 11",
+   "videos": 23,
    "avg_views": 18
   },
   {
@@ -115,7 +115,7 @@
   },
   {
    "topic": "Vật lí 10",
-   "videos": 23,
+   "videos": 26,
    "avg_views": 11
   },
   {
@@ -127,8 +127,8 @@
  "weekdays": [
   {
    "day": "Thứ 6",
-   "videos": 23,
-   "avg_views": 2351
+   "videos": 29,
+   "avg_views": 1865
   },
   {
    "day": "Thứ 7",
@@ -138,7 +138,7 @@
   {
    "day": "Thứ 5",
    "videos": 39,
-   "avg_views": 145
+   "avg_views": 146
   },
   {
    "day": "Thứ 4",
@@ -158,11 +158,11 @@
   {
    "day": "Thứ 3",
    "videos": 47,
-   "avg_views": 45
+   "avg_views": 46
   }
  ],
  "tips": [
-  "Chủ đề hiệu quả nhất: 'Nước mắm YaTrang' (TB 506 lượt xem). Làm thêm video cùng chủ đề.",
+  "Chủ đề hiệu quả nhất: 'Nước mắm YaTrang' (TB 507 lượt xem). Làm thêm video cùng chủ đề.",
   "Ngày đăng có TB lượt xem cao nhất: Thứ 6 (mẫu nhỏ, hãy thử nghiệm thêm).",
   "Tỉ lệ bình luận thấp: cuối video đặt 1 câu hỏi (vd: 'Bài hát nhắc bạn đến thầy cô nào?') và ghim bình luận.",
   "33 video thấp hơn nửa mức trung vị sau 30 ngày: thử đổi thumbnail/tiêu đề, thêm vào playlist chủ đề.",
