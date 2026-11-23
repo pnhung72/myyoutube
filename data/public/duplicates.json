@@ -2,6 +2,26 @@
  {
   "similarity": 1.0,
   "same_duration": true,
+  "keep": "8vuIMfvGUgo",
+  "keep_title": "Chuyên đề bài tập Vật lí 11: Tụ điện",
+  "keep_views": 0,
+  "review": "3Ytcj2r9Vjg",
+  "review_title": "Chuyên đề bài tập Vật lí 11: Tụ điện",
+  "review_views": 0
+ },
+ {
+  "similarity": 1.0,
+  "same_duration": false,
+  "keep": "hP76ys7VT70",
+  "keep_title": "Cố nhân",
+  "keep_views": 215,
+  "review": "OkAyiAnQrzY",
+  "review_title": "Cố nhân",
+  "review_views": 11
+ },
+ {
+  "similarity": 1.0,
+  "same_duration": true,
   "keep": "Pa4w_lT57z0",
   "keep_title": "Chuyên đề bài tập Vật lí 10: Chuyển động thẳng đều",
   "keep_views": 3,
@@ -14,17 +34,17 @@
   "same_duration": false,
   "keep": "oFu1IaMIKbM",
   "keep_title": "Bài 4. vùng năng lượng của tinh thể chất rắn (3 tiết) | Vật lí 12",
-  "keep_views": 20,
+  "keep_views": 24,
   "review": "N_Yxmlpwzb0",
   "review_title": "Bài 4. vùng năng lượng của tinh thể chất rắn (3 tiết) | Vật lí 12",
-  "review_views": 8
+  "review_views": 10
  },
  {
   "similarity": 1.0,
   "same_duration": false,
   "keep": "wRX0i0UmOVU",
   "keep_title": "Bài 5. tia x (1 tiết) | Vật lí 12",
-  "keep_views": 35,
+  "keep_views": 38,
   "review": "SHyTUUytG90",
   "review_title": "Bài 5. tia x (1 tiết) | Vật lí 12",
   "review_views": 28
@@ -97,7 +117,7 @@
   "keep_views": 35,
   "review": "qBA-gqctOu0",
   "review_title": "Huyền thoại Linh Sơn -Sáng tác:Phan Ngọc Hùng",
-  "review_views": 18
+  "review_views": 19
  },
  {
   "similarity": 1.0,
@@ -794,7 +814,7 @@
   "same_duration": false,
   "keep": "MqFUlBmiuHI",
   "keep_title": "Mắm cốt cá cơm",
-  "keep_views": 68,
+  "keep_views": 70,
   "review": "07iWSDnH8l4",
   "review_title": "Mắm cốt cá cơm",
   "review_views": 10
@@ -1904,10 +1924,10 @@
   "same_duration": false,
   "keep": "6kdF7aeNVEI",
   "keep_title": "Bài 10. thực hành: đo tần số của sóng âm (2 tiết) | Vật lí 11",
-  "keep_views": 92,
+  "keep_views": 99,
   "review": "Qup4dw3FCDY",
   "review_title": "Bài 10. thực hành đo tần số của sóng âm (2 tiết) | Vật lí 11 Chương 2",
-  "review_views": 14
+  "review_views": 27
  },
  {
   "similarity": 0.92,
@@ -2282,19 +2302,29 @@
  {
   "similarity": 0.91,
   "same_duration": false,
+  "keep": "hVu1Y33ADX8",
+  "keep_title": "Chuyên đề bài tập Vật lí 11: Sóng dừng",
+  "keep_views": 3,
+  "review": "mwU0GpTEjGU",
+  "review_title": "Chuyên đề bài tập Vật lí 11: Sóng điện từ",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.91,
+  "same_duration": false,
   "keep": "W8w3BeG7JMo",
   "keep_title": "Bài 11. thực hành: đo gia tốc rơi tự do (1 tiết) | Vật lí 10",
-  "keep_views": 42,
+  "keep_views": 50,
   "review": "5suSeGROeFs",
   "review_title": "Bài 11. thực hành: đo gia tốc rơi tự do (2 tiết) | Vật lí 10 Chương 2",
-  "review_views": 32
+  "review_views": 37
  },
  {
   "similarity": 0.9,
   "same_duration": false,
   "keep": "ckgpDnVFIbA",
   "keep_title": "Bài 12. giao thoa sóng (2 tiết) | Vật lí 11 Chương 2",
-  "keep_views": 11,
+  "keep_views": 18,
   "review": "fOipgKZIyWQ",
   "review_title": "Bài 8. mô tả sóng (2 tiết) | Vật lí 11 Chương 2",
   "review_views": 7
@@ -3532,6 +3562,46 @@
  {
   "similarity": 0.88,
   "same_duration": false,
+  "keep": "8vuIMfvGUgo",
+  "keep_title": "Chuyên đề bài tập Vật lí 11: Tụ điện",
+  "keep_views": 0,
+  "review": "mwU0GpTEjGU",
+  "review_title": "Chuyên đề bài tập Vật lí 11: Sóng điện từ",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.88,
+  "same_duration": false,
+  "keep": "3Ytcj2r9Vjg",
+  "keep_title": "Chuyên đề bài tập Vật lí 11: Tụ điện",
+  "keep_views": 0,
+  "review": "mwU0GpTEjGU",
+  "review_title": "Chuyên đề bài tập Vật lí 11: Sóng điện từ",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.88,
+  "same_duration": false,
+  "keep": "d8fdDrBh6x0",
+  "keep_title": "Chuyên đề bài tập Vật lí 10: Chuyển động thẳng đều",
+  "keep_views": 1,
+  "review": "aUJRUtVNC9A",
+  "review_title": "Chuyên đề bài tập Vật lí 10: Chuyển động ném ngang",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.88,
+  "same_duration": false,
+  "keep": "Pa4w_lT57z0",
+  "keep_title": "Chuyên đề bài tập Vật lí 10: Chuyển động thẳng đều",
+  "keep_views": 3,
+  "review": "aUJRUtVNC9A",
+  "review_title": "Chuyên đề bài tập Vật lí 10: Chuyển động ném ngang",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.88,
+  "same_duration": false,
   "keep": "DtqEt73wJLc",
   "keep_title": "ngày 19 tháng 7, 2025",
   "keep_views": 243,
@@ -3664,7 +3734,7 @@
   "same_duration": false,
   "keep": "MqFUlBmiuHI",
   "keep_title": "Mắm cốt cá cơm",
-  "keep_views": 68,
+  "keep_views": 70,
   "review": "4pJbKY9S9hw",
   "review_title": "Mam cot nhi ca com",
   "review_views": 11
@@ -5328,6 +5398,36 @@
   "review": "AhnezHpNlWE",
   "review_title": "ngày 10 tháng 8, 2022",
   "review_views": 41
+ },
+ {
+  "similarity": 0.86,
+  "same_duration": false,
+  "keep": "hVu1Y33ADX8",
+  "keep_title": "Chuyên đề bài tập Vật lí 11: Sóng dừng",
+  "keep_views": 3,
+  "review": "8vuIMfvGUgo",
+  "review_title": "Chuyên đề bài tập Vật lí 11: Tụ điện",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.86,
+  "same_duration": false,
+  "keep": "hVu1Y33ADX8",
+  "keep_title": "Chuyên đề bài tập Vật lí 11: Sóng dừng",
+  "keep_views": 3,
+  "review": "3Ytcj2r9Vjg",
+  "review_title": "Chuyên đề bài tập Vật lí 11: Tụ điện",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.86,
+  "same_duration": false,
+  "keep": "cpeEEQNfAZc",
+  "keep_title": "Chuyên đề bài tập Vật lí 11: Năng lượng dao động điều hòa",
+  "keep_views": 4,
+  "review": "lbYP_qYBAaI",
+  "review_title": "Chuyên đề bài tập Vật lí 10: Năng lượng và Công cơ học",
+  "review_views": 0
  },
  {
   "similarity": 0.86,
@@ -8102,6 +8202,26 @@
  {
   "similarity": 0.83,
   "same_duration": true,
+  "keep": "s5zGjD1OARI",
+  "keep_title": "Chuyên đề bài tập Vật lí 11: Mô tả dao động",
+  "keep_views": 5,
+  "review": "8vuIMfvGUgo",
+  "review_title": "Chuyên đề bài tập Vật lí 11: Tụ điện",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.83,
+  "same_duration": true,
+  "keep": "s5zGjD1OARI",
+  "keep_title": "Chuyên đề bài tập Vật lí 11: Mô tả dao động",
+  "keep_views": 5,
+  "review": "3Ytcj2r9Vjg",
+  "review_title": "Chuyên đề bài tập Vật lí 11: Tụ điện",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.83,
+  "same_duration": true,
   "keep": "JH-kVGKvb9w",
   "keep_title": "ngày 27 tháng 8, 2024",
   "keep_views": 80,
@@ -8128,6 +8248,76 @@
   "review": "F7gZ9uZS0pM",
   "review_title": "Mắm YaTrang",
   "review_views": 35
+ },
+ {
+  "similarity": 0.8,
+  "same_duration": true,
+  "keep": "SqnM0taPWnc",
+  "keep_title": "Vật lí 11: Sóng dừng: em làm được không? #Shorts",
+  "keep_views": 951,
+  "review": "WNETKaHp27c",
+  "review_title": "Vật lí 10: Chuyển động ném ngang: em làm được không? #Shorts",
+  "review_views": 872
+ },
+ {
+  "similarity": 0.79,
+  "same_duration": true,
+  "keep": "d8fdDrBh6x0",
+  "keep_title": "Chuyên đề bài tập Vật lí 10: Chuyển động thẳng đều",
+  "keep_views": 1,
+  "review": "NJVa72Ow4Nc",
+  "review_title": "Chuyên đề bài tập Vật lí 10: Động lượng và Chuyển động tròn",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.79,
+  "same_duration": true,
+  "keep": "Pa4w_lT57z0",
+  "keep_title": "Chuyên đề bài tập Vật lí 10: Chuyển động thẳng đều",
+  "keep_views": 3,
+  "review": "NJVa72Ow4Nc",
+  "review_title": "Chuyên đề bài tập Vật lí 10: Động lượng và Chuyển động tròn",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.77,
+  "same_duration": true,
+  "keep": "jfK2rgpVUk4",
+  "keep_title": "Động lượng và Chuyển động tròn: em làm được không? #Shorts",
+  "keep_views": 3,
+  "review": "W2inf-xW8k0",
+  "review_title": "Trọng lực và lực căng: em làm được không? #Shorts",
+  "review_views": 1
+ },
+ {
+  "similarity": 0.77,
+  "same_duration": true,
+  "keep": "0fld1umc1Tc",
+  "keep_title": "Vật lí 10: Năng lượng và Công cơ học: em làm được không? #Shorts",
+  "keep_views": 968,
+  "review": "SqnM0taPWnc",
+  "review_title": "Vật lí 11: Sóng dừng: em làm được không? #Shorts",
+  "review_views": 951
+ },
+ {
+  "similarity": 0.76,
+  "same_duration": true,
+  "keep": "WNETKaHp27c",
+  "keep_title": "Vật lí 10: Chuyển động ném ngang: em làm được không? #Shorts",
+  "keep_views": 872,
+  "review": "jfK2rgpVUk4",
+  "review_title": "Động lượng và Chuyển động tròn: em làm được không? #Shorts",
+  "review_views": 3
+ },
+ {
+  "similarity": 0.76,
+  "same_duration": true,
+  "keep": "0fld1umc1Tc",
+  "keep_title": "Vật lí 10: Năng lượng và Công cơ học: em làm được không? #Shorts",
+  "keep_views": 968,
+  "review": "WNETKaHp27c",
+  "review_title": "Vật lí 10: Chuyển động ném ngang: em làm được không? #Shorts",
+  "review_views": 872
  },
  {
   "similarity": 0.76,
@@ -8170,11 +8360,21 @@
   "review_views": 11
  },
  {
+  "similarity": 0.75,
+  "same_duration": true,
+  "keep": "0fld1umc1Tc",
+  "keep_title": "Vật lí 10: Năng lượng và Công cơ học: em làm được không? #Shorts",
+  "keep_views": 968,
+  "review": "jfK2rgpVUk4",
+  "review_title": "Động lượng và Chuyển động tròn: em làm được không? #Shorts",
+  "review_views": 3
+ },
+ {
   "similarity": 0.74,
   "same_duration": true,
   "keep": "uBFBjnvUD1M",
   "keep_title": "Bài 4. nhiệt dung riêng (2 tiết) | Vật lí 12 Chương 1",
-  "keep_views": 9,
+  "keep_views": 10,
   "review": "yHUqdt8cfcA",
   "review_title": "Bài 2: mô tả dao động điều hòa (2 tiết) | Vật lí 11 Chương 1",
   "review_views": 4
@@ -8190,6 +8390,96 @@
   "review_views": 3
  },
  {
+  "similarity": 0.73,
+  "same_duration": true,
+  "keep": "W2inf-xW8k0",
+  "keep_title": "Trọng lực và lực căng: em làm được không? #Shorts",
+  "keep_views": 1,
+  "review": "cQaJVjPJCNs",
+  "review_title": "Điện trường và Điện trường đều: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.73,
+  "same_duration": true,
+  "keep": "SqnM0taPWnc",
+  "keep_title": "Vật lí 11: Sóng dừng: em làm được không? #Shorts",
+  "keep_views": 951,
+  "review": "cQaJVjPJCNs",
+  "review_title": "Điện trường và Điện trường đều: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.73,
+  "same_duration": true,
+  "keep": "SqnM0taPWnc",
+  "keep_title": "Vật lí 11: Sóng dừng: em làm được không? #Shorts",
+  "keep_views": 951,
+  "review": "W2inf-xW8k0",
+  "review_title": "Trọng lực và lực căng: em làm được không? #Shorts",
+  "review_views": 1
+ },
+ {
+  "similarity": 0.72,
+  "same_duration": true,
+  "keep": "jfK2rgpVUk4",
+  "keep_title": "Động lượng và Chuyển động tròn: em làm được không? #Shorts",
+  "keep_views": 3,
+  "review": "VWu1EAHSpzI",
+  "review_title": "Khối lượng riêng và Áp suất chất lỏng: em làm được không? #Shorts",
+  "review_views": 2
+ },
+ {
+  "similarity": 0.72,
+  "same_duration": true,
+  "keep": "VWu1EAHSpzI",
+  "keep_title": "Khối lượng riêng và Áp suất chất lỏng: em làm được không? #Shorts",
+  "keep_views": 2,
+  "review": "W2inf-xW8k0",
+  "review_title": "Trọng lực và lực căng: em làm được không? #Shorts",
+  "review_views": 1
+ },
+ {
+  "similarity": 0.72,
+  "same_duration": true,
+  "keep": "0fld1umc1Tc",
+  "keep_title": "Vật lí 10: Năng lượng và Công cơ học: em làm được không? #Shorts",
+  "keep_views": 968,
+  "review": "W2inf-xW8k0",
+  "review_title": "Trọng lực và lực căng: em làm được không? #Shorts",
+  "review_views": 1
+ },
+ {
+  "similarity": 0.71,
+  "same_duration": true,
+  "keep": "jfK2rgpVUk4",
+  "keep_title": "Động lượng và Chuyển động tròn: em làm được không? #Shorts",
+  "keep_views": 3,
+  "review": "DN9GJJPqGZk",
+  "review_title": "Ba định luật Newton: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.71,
+  "same_duration": true,
+  "keep": "W2inf-xW8k0",
+  "keep_title": "Trọng lực và lực căng: em làm được không? #Shorts",
+  "keep_views": 1,
+  "review": "DN9GJJPqGZk",
+  "review_title": "Ba định luật Newton: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.71,
+  "same_duration": true,
+  "keep": "kZvvynmxmY4",
+  "keep_title": "Vật lí 10: Tổng hợp và phân tích lực. Cân bằng lực: em làm được không? #Shorts",
+  "keep_views": 1007,
+  "review": "W2inf-xW8k0",
+  "review_title": "Trọng lực và lực căng: em làm được không? #Shorts",
+  "review_views": 1
+ },
+ {
   "similarity": 0.71,
   "same_duration": true,
   "keep": "3GD4C_UEMMQ",
@@ -8198,6 +8488,46 @@
   "review": "o1DgFMe5jNA",
   "review_title": "Mắm cốt nhỉ cá cơm nguyên chất truyền thống YaTrang",
   "review_views": 127
+ },
+ {
+  "similarity": 0.7,
+  "same_duration": true,
+  "keep": "nb6G6MwJbnc",
+  "keep_title": "Vật lí 11: Tụ điện #Shorts",
+  "keep_views": 4,
+  "review": "p7THgC-17_M",
+  "review_title": "Vật lí 11: Thế năng điện và Điện thế #Shorts",
+  "review_views": 1
+ },
+ {
+  "similarity": 0.7,
+  "same_duration": true,
+  "keep": "F-_JVyYzcPU",
+  "keep_title": "Vật lí 11: Lực tương tác giữa hai điện tích #Shorts",
+  "keep_views": 3,
+  "review": "p7THgC-17_M",
+  "review_title": "Vật lí 11: Thế năng điện và Điện thế #Shorts",
+  "review_views": 1
+ },
+ {
+  "similarity": 0.7,
+  "same_duration": true,
+  "keep": "0fld1umc1Tc",
+  "keep_title": "Vật lí 10: Năng lượng và Công cơ học: em làm được không? #Shorts",
+  "keep_views": 968,
+  "review": "cQaJVjPJCNs",
+  "review_title": "Điện trường và Điện trường đều: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.7,
+  "same_duration": true,
+  "keep": "kZvvynmxmY4",
+  "keep_title": "Vật lí 10: Tổng hợp và phân tích lực. Cân bằng lực: em làm được không? #Shorts",
+  "keep_views": 1007,
+  "review": "SqnM0taPWnc",
+  "review_title": "Vật lí 11: Sóng dừng: em làm được không? #Shorts",
+  "review_views": 951
  },
  {
   "similarity": 0.7,
@@ -8230,14 +8560,244 @@
   "review_views": 14
  },
  {
+  "similarity": 0.68,
+  "same_duration": true,
+  "keep": "VWu1EAHSpzI",
+  "keep_title": "Khối lượng riêng và Áp suất chất lỏng: em làm được không? #Shorts",
+  "keep_views": 2,
+  "review": "cQaJVjPJCNs",
+  "review_title": "Điện trường và Điện trường đều: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.68,
+  "same_duration": true,
+  "keep": "zb-TU0jYbos",
+  "keep_title": "Moment lực và Cân bằng của vật rắn: em làm được không? #Shorts",
+  "keep_views": 572,
+  "review": "cQaJVjPJCNs",
+  "review_title": "Điện trường và Điện trường đều: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.68,
+  "same_duration": true,
+  "keep": "gqxvDGdvfTc",
+  "keep_title": "Chuyên đề bài tập Vật lí 11: Điện trường và Điện trường đều",
+  "keep_views": 1,
+  "review": "TNr9Wl-Xyk8",
+  "review_title": "Chuyên đề bài tập Vật lí 11: Giao thoa sóng",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.68,
+  "same_duration": true,
+  "keep": "SqnM0taPWnc",
+  "keep_title": "Vật lí 11: Sóng dừng: em làm được không? #Shorts",
+  "keep_views": 951,
+  "review": "DN9GJJPqGZk",
+  "review_title": "Ba định luật Newton: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.68,
+  "same_duration": true,
+  "keep": "kZvvynmxmY4",
+  "keep_title": "Vật lí 10: Tổng hợp và phân tích lực. Cân bằng lực: em làm được không? #Shorts",
+  "keep_views": 1007,
+  "review": "WNETKaHp27c",
+  "review_title": "Vật lí 10: Chuyển động ném ngang: em làm được không? #Shorts",
+  "review_views": 872
+ },
+ {
+  "similarity": 0.67,
+  "same_duration": true,
+  "keep": "cQaJVjPJCNs",
+  "keep_title": "Điện trường và Điện trường đều: em làm được không? #Shorts",
+  "keep_views": 0,
+  "review": "DN9GJJPqGZk",
+  "review_title": "Ba định luật Newton: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.67,
+  "same_duration": true,
+  "keep": "kZvvynmxmY4",
+  "keep_title": "Vật lí 10: Tổng hợp và phân tích lực. Cân bằng lực: em làm được không? #Shorts",
+  "keep_views": 1007,
+  "review": "cQaJVjPJCNs",
+  "review_title": "Điện trường và Điện trường đều: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.67,
+  "same_duration": true,
+  "keep": "WNETKaHp27c",
+  "keep_title": "Vật lí 10: Chuyển động ném ngang: em làm được không? #Shorts",
+  "keep_views": 872,
+  "review": "W2inf-xW8k0",
+  "review_title": "Trọng lực và lực căng: em làm được không? #Shorts",
+  "review_views": 1
+ },
+ {
+  "similarity": 0.66,
+  "same_duration": true,
+  "keep": "nb6G6MwJbnc",
+  "keep_title": "Vật lí 11: Tụ điện #Shorts",
+  "keep_views": 4,
+  "review": "F-_JVyYzcPU",
+  "review_title": "Vật lí 11: Lực tương tác giữa hai điện tích #Shorts",
+  "review_views": 3
+ },
+ {
+  "similarity": 0.66,
+  "same_duration": true,
+  "keep": "VWu1EAHSpzI",
+  "keep_title": "Khối lượng riêng và Áp suất chất lỏng: em làm được không? #Shorts",
+  "keep_views": 2,
+  "review": "DN9GJJPqGZk",
+  "review_title": "Ba định luật Newton: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.65,
+  "same_duration": true,
+  "keep": "SqnM0taPWnc",
+  "keep_title": "Vật lí 11: Sóng dừng: em làm được không? #Shorts",
+  "keep_views": 951,
+  "review": "jfK2rgpVUk4",
+  "review_title": "Động lượng và Chuyển động tròn: em làm được không? #Shorts",
+  "review_views": 3
+ },
+ {
+  "similarity": 0.65,
+  "same_duration": true,
+  "keep": "WNETKaHp27c",
+  "keep_title": "Vật lí 10: Chuyển động ném ngang: em làm được không? #Shorts",
+  "keep_views": 872,
+  "review": "cQaJVjPJCNs",
+  "review_title": "Điện trường và Điện trường đều: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.65,
+  "same_duration": true,
+  "keep": "0fld1umc1Tc",
+  "keep_title": "Vật lí 10: Năng lượng và Công cơ học: em làm được không? #Shorts",
+  "keep_views": 968,
+  "review": "DN9GJJPqGZk",
+  "review_title": "Ba định luật Newton: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.65,
+  "same_duration": true,
+  "keep": "kZvvynmxmY4",
+  "keep_title": "Vật lí 10: Tổng hợp và phân tích lực. Cân bằng lực: em làm được không? #Shorts",
+  "keep_views": 1007,
+  "review": "0fld1umc1Tc",
+  "review_title": "Vật lí 10: Năng lượng và Công cơ học: em làm được không? #Shorts",
+  "review_views": 968
+ },
+ {
+  "similarity": 0.64,
+  "same_duration": true,
+  "keep": "kZvvynmxmY4",
+  "keep_title": "Vật lí 10: Tổng hợp và phân tích lực. Cân bằng lực: em làm được không? #Shorts",
+  "keep_views": 1007,
+  "review": "VWu1EAHSpzI",
+  "review_title": "Khối lượng riêng và Áp suất chất lỏng: em làm được không? #Shorts",
+  "review_views": 2
+ },
+ {
+  "similarity": 0.64,
+  "same_duration": true,
+  "keep": "SqnM0taPWnc",
+  "keep_title": "Vật lí 11: Sóng dừng: em làm được không? #Shorts",
+  "keep_views": 951,
+  "review": "VWu1EAHSpzI",
+  "review_title": "Khối lượng riêng và Áp suất chất lỏng: em làm được không? #Shorts",
+  "review_views": 2
+ },
+ {
+  "similarity": 0.64,
+  "same_duration": true,
+  "keep": "WNETKaHp27c",
+  "keep_title": "Vật lí 10: Chuyển động ném ngang: em làm được không? #Shorts",
+  "keep_views": 872,
+  "review": "VWu1EAHSpzI",
+  "review_title": "Khối lượng riêng và Áp suất chất lỏng: em làm được không? #Shorts",
+  "review_views": 2
+ },
+ {
+  "similarity": 0.64,
+  "same_duration": true,
+  "keep": "zb-TU0jYbos",
+  "keep_title": "Moment lực và Cân bằng của vật rắn: em làm được không? #Shorts",
+  "keep_views": 572,
+  "review": "DN9GJJPqGZk",
+  "review_title": "Ba định luật Newton: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
   "similarity": 0.64,
   "same_duration": true,
   "keep": "W8w3BeG7JMo",
   "keep_title": "Bài 11. thực hành: đo gia tốc rơi tự do (1 tiết) | Vật lí 10",
-  "keep_views": 42,
+  "keep_views": 50,
   "review": "VkeWd9WG33Y",
   "review_title": "Bài 15&16. ôn tập và kiểm tra giữa học kì i (2 tiết) | Vật lí 10",
   "review_views": 4
+ },
+ {
+  "similarity": 0.63,
+  "same_duration": true,
+  "keep": "SqnM0taPWnc",
+  "keep_title": "Vật lí 11: Sóng dừng: em làm được không? #Shorts",
+  "keep_views": 951,
+  "review": "p7THgC-17_M",
+  "review_title": "Vật lí 11: Thế năng điện và Điện thế #Shorts",
+  "review_views": 1
+ },
+ {
+  "similarity": 0.62,
+  "same_duration": true,
+  "keep": "SqnM0taPWnc",
+  "keep_title": "Vật lí 11: Sóng dừng: em làm được không? #Shorts",
+  "keep_views": 951,
+  "review": "nb6G6MwJbnc",
+  "review_title": "Vật lí 11: Tụ điện #Shorts",
+  "review_views": 4
+ },
+ {
+  "similarity": 0.62,
+  "same_duration": true,
+  "keep": "0fld1umc1Tc",
+  "keep_title": "Vật lí 10: Năng lượng và Công cơ học: em làm được không? #Shorts",
+  "keep_views": 968,
+  "review": "VWu1EAHSpzI",
+  "review_title": "Khối lượng riêng và Áp suất chất lỏng: em làm được không? #Shorts",
+  "review_views": 2
+ },
+ {
+  "similarity": 0.62,
+  "same_duration": true,
+  "keep": "WNETKaHp27c",
+  "keep_title": "Vật lí 10: Chuyển động ném ngang: em làm được không? #Shorts",
+  "keep_views": 872,
+  "review": "DN9GJJPqGZk",
+  "review_title": "Ba định luật Newton: em làm được không? #Shorts",
+  "review_views": 0
+ },
+ {
+  "similarity": 0.62,
+  "same_duration": true,
+  "keep": "kZvvynmxmY4",
+  "keep_title": "Vật lí 10: Tổng hợp và phân tích lực. Cân bằng lực: em làm được không? #Shorts",
+  "keep_views": 1007,
+  "review": "zb-TU0jYbos",
+  "review_title": "Moment lực và Cân bằng của vật rắn: em làm được không? #Shorts",
+  "review_views": 572
  },
  {
   "similarity": 0.62,
@@ -8247,7 +8807,7 @@
   "keep_views": 31,
   "review": "Qup4dw3FCDY",
   "review_title": "Bài 10. thực hành đo tần số của sóng âm (2 tiết) | Vật lí 11 Chương 2",
-  "review_views": 14
+  "review_views": 27
  },
  {
   "similarity": 0.62,
@@ -8258,6 +8818,26 @@
   "review": "w6P3qbzWax8",
   "review_title": "Nuoc mam-nhi--ca com-truyen thong-yatrang",
   "review_views": 40
+ },
+ {
+  "similarity": 0.61,
+  "same_duration": true,
+  "keep": "nb6G6MwJbnc",
+  "keep_title": "Vật lí 11: Tụ điện #Shorts",
+  "keep_views": 4,
+  "review": "RPWIViR_xP4",
+  "review_title": "Vật lí 10: Biến dạng của vật rắn #Shorts",
+  "review_views": 4
+ },
+ {
+  "similarity": 0.61,
+  "same_duration": true,
+  "keep": "WNETKaHp27c",
+  "keep_title": "Vật lí 10: Chuyển động ném ngang: em làm được không? #Shorts",
+  "keep_views": 872,
+  "review": "p7THgC-17_M",
+  "review_title": "Vật lí 11: Thế năng điện và Điện thế #Shorts",
+  "review_views": 1
  },
  {
   "similarity": 0.61,
@@ -8274,10 +8854,10 @@
   "same_duration": true,
   "keep": "2gCLc7i4dV0",
   "keep_title": "Bài 3. giới thiệu các ứng dụng của vật lí trong một số ngành nghề (1 tiết) | Vật lí 10",
-  "keep_views": 44,
+  "keep_views": 45,
   "review": "RRP-EeQbCiE",
   "review_title": "Bài 3. thế hấp dẫn và thế năng hấp dẫn (1 tiết) | Vật lí 11",
-  "review_views": 24
+  "review_views": 25
  },
  {
   "similarity": 0.6,
@@ -8287,6 +8867,6 @@
   "keep_views": 8,
   "review": "5hkh0Q8lUvM",
   "review_title": "Bài 7. bài tập về vật lí nhiệt (2 tiết) | Vật lí 12 Chương 1",
-  "review_views": 0
+  "review_views": 2
  }
 ]
