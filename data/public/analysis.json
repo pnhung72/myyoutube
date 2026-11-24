@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T00:36:18+00:00",
- "median_views": 21.5,
- "comment_rate_pct": 0.07,
+ "updated": "2026-11-24T04:36:16+00:00",
+ "median_views": 21,
+ "comment_rate_pct": 0.068,
  "like_rate_pct": 0.41,
  "top": [
   {
@@ -12,7 +12,7 @@
   {
    "id": "n1cThlKzYC8",
    "title": "Phượng cháy",
-   "views": 1661
+   "views": 1664
   },
   {
    "id": "Hp9AvO4kkbk",
@@ -22,12 +22,12 @@
   {
    "id": "oOJwY5BIpNU",
    "title": "Khoan làm vòi cho chum mắm",
-   "views": 1122
+   "views": 1127
   },
   {
-   "id": "kZvvynmxmY4",
-   "title": "Vật lí 10: Tổng hợp và phân tích lực. Cân bằng lực: em làm được không? #Shorts",
-   "views": 1007
+   "id": "0fld1umc1Tc",
+   "title": "Vật lí 10: Năng lượng và Công cơ học: em làm được không? #Shorts",
+   "views": 1083
   }
  ],
  "weak": [
@@ -91,37 +91,37 @@
   {
    "topic": "khac",
    "videos": 59,
-   "avg_views": 123
+   "avg_views": 124
   },
   {
    "topic": "Vật lí 10",
    "videos": 44,
-   "avg_views": 85
+   "avg_views": 97
+  },
+  {
+   "topic": "Vật lí 11",
+   "videos": 40,
+   "avg_views": 58
   },
   {
    "topic": "Nhạc sáng tác",
    "videos": 1,
-   "avg_views": 52
+   "avg_views": 56
   },
   {
-   "topic": "Vật lí 11",
-   "videos": 37,
-   "avg_views": 39
+   "topic": "Vật lí 12",
+   "videos": 22,
+   "avg_views": 28
   },
   {
    "topic": "Thực hành",
-   "videos": 15,
-   "avg_views": 23
+   "videos": 14,
+   "avg_views": 24
   },
   {
    "topic": "Ôn tập",
    "videos": 6,
    "avg_views": 18
-  },
-  {
-   "topic": "Vật lí 12",
-   "videos": 14,
-   "avg_views": 12
   }
  ],
  "weekdays": [
@@ -143,7 +143,12 @@
   {
    "day": "Chủ nhật",
    "videos": 75,
-   "avg_views": 92
+   "avg_views": 100
+  },
+  {
+   "day": "Thứ 2",
+   "videos": 36,
+   "avg_views": 69
   },
   {
    "day": "Thứ 4",
@@ -151,14 +156,9 @@
    "avg_views": 64
   },
   {
-   "day": "Thứ 2",
-   "videos": 24,
-   "avg_views": 47
-  },
-  {
    "day": "Thứ 3",
-   "videos": 47,
-   "avg_views": 47
+   "videos": 46,
+   "avg_views": 48
   }
  ],
  "tips": [
