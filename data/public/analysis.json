@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-24T04:36:16+00:00",
- "median_views": 21,
- "comment_rate_pct": 0.068,
- "like_rate_pct": 0.41,
+ "updated": "2026-11-25T03:22:24+00:00",
+ "median_views": 21.0,
+ "comment_rate_pct": 0.066,
+ "like_rate_pct": 0.4,
  "top": [
   {
    "id": "PbD-CwaZtRI",
    "title": "Tổng bí thư họp ban phòng chống tham nhũng",
-   "views": 51834
+   "views": 51836
   },
   {
    "id": "n1cThlKzYC8",
@@ -20,14 +20,14 @@
    "views": 1592
   },
   {
-   "id": "oOJwY5BIpNU",
-   "title": "Khoan làm vòi cho chum mắm",
-   "views": 1127
-  },
-  {
    "id": "0fld1umc1Tc",
    "title": "Vật lí 10: Năng lượng và Công cơ học: em làm được không? #Shorts",
-   "views": 1083
+   "views": 1251
+  },
+  {
+   "id": "zb-TU0jYbos",
+   "title": "Moment lực và Cân bằng của vật rắn: em làm được không? #Shorts",
+   "views": 1206
   }
  ],
  "weak": [
@@ -95,33 +95,33 @@
   },
   {
    "topic": "Vật lí 10",
-   "videos": 44,
-   "avg_views": 97
+   "videos": 45,
+   "avg_views": 116
   },
   {
    "topic": "Vật lí 11",
-   "videos": 40,
-   "avg_views": 58
+   "videos": 42,
+   "avg_views": 80
   },
   {
    "topic": "Nhạc sáng tác",
    "videos": 1,
-   "avg_views": 56
+   "avg_views": 57
   },
   {
    "topic": "Vật lí 12",
-   "videos": 22,
-   "avg_views": 28
+   "videos": 24,
+   "avg_views": 29
   },
   {
    "topic": "Thực hành",
    "videos": 14,
-   "avg_views": 24
+   "avg_views": 26
   },
   {
    "topic": "Ôn tập",
-   "videos": 6,
-   "avg_views": 18
+   "videos": 7,
+   "avg_views": 16
   }
  ],
  "weekdays": [
@@ -143,7 +143,7 @@
   {
    "day": "Chủ nhật",
    "videos": 75,
-   "avg_views": 100
+   "avg_views": 116
   },
   {
    "day": "Thứ 2",
@@ -151,14 +151,14 @@
    "avg_views": 69
   },
   {
-   "day": "Thứ 4",
-   "videos": 28,
-   "avg_views": 64
+   "day": "Thứ 3",
+   "videos": 49,
+   "avg_views": 63
   },
   {
-   "day": "Thứ 3",
-   "videos": 46,
-   "avg_views": 48
+   "day": "Thứ 4",
+   "videos": 30,
+   "avg_views": 61
   }
  ],
  "tips": [
