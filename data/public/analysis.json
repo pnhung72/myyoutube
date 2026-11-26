@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-25T03:22:24+00:00",
- "median_views": 21.0,
+ "updated": "2026-11-26T02:38:12+00:00",
+ "median_views": 21,
  "comment_rate_pct": 0.066,
- "like_rate_pct": 0.4,
+ "like_rate_pct": 0.41,
  "top": [
   {
    "id": "PbD-CwaZtRI",
    "title": "Tổng bí thư họp ban phòng chống tham nhũng",
-   "views": 51836
+   "views": 51837
   },
   {
    "id": "n1cThlKzYC8",
@@ -20,14 +20,14 @@
    "views": 1592
   },
   {
-   "id": "0fld1umc1Tc",
-   "title": "Vật lí 10: Năng lượng và Công cơ học: em làm được không? #Shorts",
-   "views": 1251
+   "id": "EocceTVZxwA",
+   "title": "Vật lí 11: Dòng điện không đổi và Nguồn điện #Shorts",
+   "views": 1265
   },
   {
-   "id": "zb-TU0jYbos",
-   "title": "Moment lực và Cân bằng của vật rắn: em làm được không? #Shorts",
-   "views": 1206
+   "id": "0fld1umc1Tc",
+   "title": "Vật lí 10: Năng lượng và Công cơ học: em làm được không? #Shorts",
+   "views": 1254
   }
  ],
  "weak": [
@@ -85,38 +85,38 @@
  "topics": [
   {
    "topic": "Nước mắm YaTrang",
-   "videos": 128,
-   "avg_views": 507
+   "videos": 135,
+   "avg_views": 486
   },
   {
    "topic": "khac",
-   "videos": 59,
-   "avg_views": 124
+   "videos": 52,
+   "avg_views": 127
   },
   {
    "topic": "Vật lí 10",
    "videos": 45,
-   "avg_views": 116
+   "avg_views": 118
   },
   {
    "topic": "Vật lí 11",
-   "videos": 42,
-   "avg_views": 80
+   "videos": 45,
+   "avg_views": 86
   },
   {
    "topic": "Nhạc sáng tác",
    "videos": 1,
-   "avg_views": 57
+   "avg_views": 64
   },
   {
    "topic": "Vật lí 12",
-   "videos": 24,
-   "avg_views": 29
+   "videos": 26,
+   "avg_views": 28
   },
   {
    "topic": "Thực hành",
    "videos": 14,
-   "avg_views": 26
+   "avg_views": 28
   },
   {
    "topic": "Ôn tập",
@@ -127,13 +127,8 @@
  "weekdays": [
   {
    "day": "Thứ 6",
-   "videos": 29,
-   "avg_views": 1866
-  },
-  {
-   "day": "Thứ 5",
-   "videos": 39,
-   "avg_views": 147
+   "videos": 28,
+   "avg_views": 1933
   },
   {
    "day": "Thứ 7",
@@ -141,28 +136,33 @@
    "avg_views": 145
   },
   {
+   "day": "Thứ 5",
+   "videos": 42,
+   "avg_views": 137
+  },
+  {
    "day": "Chủ nhật",
    "videos": 75,
-   "avg_views": 116
+   "avg_views": 117
   },
   {
    "day": "Thứ 2",
    "videos": 36,
-   "avg_views": 69
+   "avg_views": 80
   },
   {
    "day": "Thứ 3",
    "videos": 49,
-   "avg_views": 63
+   "avg_views": 64
   },
   {
    "day": "Thứ 4",
-   "videos": 30,
-   "avg_views": 61
+   "videos": 33,
+   "avg_views": 57
   }
  ],
  "tips": [
-  "Chủ đề hiệu quả nhất: 'Nước mắm YaTrang' (TB 507 lượt xem). Làm thêm video cùng chủ đề.",
+  "Chủ đề hiệu quả nhất: 'Nước mắm YaTrang' (TB 486 lượt xem). Làm thêm video cùng chủ đề.",
   "Ngày đăng có TB lượt xem cao nhất: Thứ 6 (mẫu nhỏ, hãy thử nghiệm thêm).",
   "Tỉ lệ bình luận thấp: cuối video đặt 1 câu hỏi (vd: 'Bài hát nhắc bạn đến thầy cô nào?') và ghim bình luận.",
   "27 video thấp hơn nửa mức trung vị sau 30 ngày: thử đổi thumbnail/tiêu đề, thêm vào playlist chủ đề.",
