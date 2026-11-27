@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T02:38:12+00:00",
- "median_views": 21,
+ "updated": "2026-11-27T02:39:39+00:00",
+ "median_views": 23.0,
  "comment_rate_pct": 0.066,
  "like_rate_pct": 0.41,
  "top": [
@@ -22,7 +22,7 @@
   {
    "id": "EocceTVZxwA",
    "title": "Vật lí 11: Dòng điện không đổi và Nguồn điện #Shorts",
-   "views": 1265
+   "views": 1274
   },
   {
    "id": "0fld1umc1Tc",
@@ -31,6 +31,11 @@
   }
  ],
  "weak": [
+  {
+   "id": "upMuKvdeO6s",
+   "title": "Cánh phượng rơi -Sáng tác:Phan Ngọc Hùng",
+   "views": 11
+  },
   {
    "id": "ZhNrHcdgH6w",
    "title": "Dốc tình- Sáng tác :Phan Ngọc Hùng",
@@ -44,12 +49,12 @@
   {
    "id": "q_0zepev5mU",
    "title": "Nước mắm truyền thống YaTrang",
-   "views": 10
+   "views": 11
   },
   {
    "id": "MS6kFiptSvM",
    "title": "Sửa bài ôn tập chương 2_Vật lí 11",
-   "views": 5
+   "views": 6
   },
   {
    "id": "SPNlZhDAfj8",
@@ -62,6 +67,11 @@
    "views": 5
   },
   {
+   "id": "-yAzP_x7km8",
+   "title": "Nước mắm cốt cá cơm truyền thống",
+   "views": 11
+  },
+  {
    "id": "xrUgp55cwmU",
    "title": "Nước mắm cá cơm than truyền thống",
    "views": 10
@@ -70,16 +80,6 @@
    "id": "waVXJZSpl-8",
    "title": "ngày 8 tháng 5, 2024",
    "views": 9
-  },
-  {
-   "id": "DXQsFxm_LOo",
-   "title": "Hướng dẫn  sử dụng hộp nước mắm",
-   "views": 10
-  },
-  {
-   "id": "gXOy-FsiM6Q",
-   "title": "ngày 7 tháng 2, 2024",
-   "views": 4
   }
  ],
  "topics": [
@@ -90,33 +90,33 @@
   },
   {
    "topic": "khac",
-   "videos": 52,
-   "avg_views": 127
+   "videos": 53,
+   "avg_views": 125
   },
   {
    "topic": "Vật lí 10",
    "videos": 45,
-   "avg_views": 118
+   "avg_views": 119
   },
   {
    "topic": "Vật lí 11",
    "videos": 45,
-   "avg_views": 86
+   "avg_views": 88
   },
   {
    "topic": "Nhạc sáng tác",
    "videos": 1,
-   "avg_views": 64
+   "avg_views": 66
   },
   {
    "topic": "Vật lí 12",
    "videos": 26,
-   "avg_views": 28
+   "avg_views": 32
   },
   {
    "topic": "Thực hành",
    "videos": 14,
-   "avg_views": 28
+   "avg_views": 29
   },
   {
    "topic": "Ôn tập",
@@ -127,8 +127,8 @@
  "weekdays": [
   {
    "day": "Thứ 6",
-   "videos": 28,
-   "avg_views": 1933
+   "videos": 29,
+   "avg_views": 1867
   },
   {
    "day": "Thứ 7",
@@ -138,7 +138,7 @@
   {
    "day": "Thứ 5",
    "videos": 42,
-   "avg_views": 137
+   "avg_views": 139
   },
   {
    "day": "Chủ nhật",
@@ -148,24 +148,24 @@
   {
    "day": "Thứ 2",
    "videos": 36,
-   "avg_views": 80
+   "avg_views": 81
   },
   {
    "day": "Thứ 3",
    "videos": 49,
-   "avg_views": 64
+   "avg_views": 65
   },
   {
    "day": "Thứ 4",
    "videos": 33,
-   "avg_views": 57
+   "avg_views": 59
   }
  ],
  "tips": [
   "Chủ đề hiệu quả nhất: 'Nước mắm YaTrang' (TB 486 lượt xem). Làm thêm video cùng chủ đề.",
   "Ngày đăng có TB lượt xem cao nhất: Thứ 6 (mẫu nhỏ, hãy thử nghiệm thêm).",
   "Tỉ lệ bình luận thấp: cuối video đặt 1 câu hỏi (vd: 'Bài hát nhắc bạn đến thầy cô nào?') và ghim bình luận.",
-  "27 video thấp hơn nửa mức trung vị sau 30 ngày: thử đổi thumbnail/tiêu đề, thêm vào playlist chủ đề.",
+  "31 video thấp hơn nửa mức trung vị sau 30 ngày: thử đổi thumbnail/tiêu đề, thêm vào playlist chủ đề.",
   "Mỗi video: vào bài hát trong 10 giây đầu, đặt từ khóa chính ở đầu tiêu đề, thêm thẻ + màn hình kết thúc."
  ]
 }
