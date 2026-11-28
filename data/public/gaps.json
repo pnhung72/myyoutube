@@ -1,8 +1,12 @@
 {
- "updated": "2026-11-27T02:39:39+00:00",
- "blog_items": 130,
+ "updated": "2026-11-28T02:29:07+00:00",
+ "blog_items": 131,
  "with_video": 15,
  "without_video": [
+  {
+   "title": "Ôn tập ",
+   "url": "https://thayhungp.blogspot.com/2026/11/on-tap.html"
+  },
   {
    "title": "YouTobe-Thầy Hùng",
    "url": "https://thayhungp.blogspot.com/2026/11/youtobe-thay-hung.html"
@@ -198,10 +202,6 @@
   {
    "title": "Thời khóa biểu chính khóa ",
    "url": "https://thayhungp.blogspot.com/2025/01/thoi-khoa-bieu-chinh-khoa.html"
-  },
-  {
-   "title": "Ý kiến",
-   "url": "https://thayhungp.blogspot.com/2025/01/y-kien.html"
   }
  ],
  "missing_cta": [
@@ -270,7 +270,7 @@
   {
    "title": "Tổng bí thư họp ban phòng chống tham nhũng",
    "url": "https://www.youtube.com/watch?v=PbD-CwaZtRI",
-   "views": 51837
+   "views": 51841
   },
   {
    "title": "Phượng cháy",
@@ -295,32 +295,32 @@
   {
    "title": "Moment lực và Cân bằng của vật rắn: em làm được không? #Shorts",
    "url": "https://www.youtube.com/watch?v=zb-TU0jYbos",
-   "views": 1215
+   "views": 1218
   },
   {
    "title": "Vật lí 10: Tổng hợp và phân tích lực. Cân bằng lực: em làm được không? #Shorts",
    "url": "https://www.youtube.com/watch?v=kZvvynmxmY4",
-   "views": 1206
+   "views": 1207
   },
   {
    "title": "Vật lí 11: Sóng dừng: em làm được không? #Shorts",
    "url": "https://www.youtube.com/watch?v=SqnM0taPWnc",
-   "views": 1190
+   "views": 1195
   },
   {
    "title": "Vật lí 10: Chuyển động ném ngang: em làm được không? #Shorts",
    "url": "https://www.youtube.com/watch?v=WNETKaHp27c",
-   "views": 1188
+   "views": 1191
   },
   {
    "title": "Khoan làm vòi cho chum mắm",
    "url": "https://www.youtube.com/watch?v=oOJwY5BIpNU",
-   "views": 1131
+   "views": 1132
   },
   {
    "title": "Vật lí 11: Bài 12. Giao thoa sóng #Shorts",
    "url": "https://www.youtube.com/watch?v=FqfbxEtk-NQ",
-   "views": 841
+   "views": 854
   },
   {
    "title": "ngày 28 tháng 4, 2026",
@@ -513,6 +513,11 @@
    "views": 127
   },
   {
+   "title": "Bài 10. thực hành: đo tần số của sóng âm (2 tiết) | Vật lí 11",
+   "url": "https://www.youtube.com/watch?v=6kdF7aeNVEI",
+   "views": 126
+  },
+  {
    "title": "ngày 11 tháng 1, 2024",
    "url": "https://www.youtube.com/watch?v=dbPx59xHsK0",
    "views": 126
@@ -533,11 +538,6 @@
    "views": 117
   },
   {
-   "title": "Bài 10. thực hành: đo tần số của sóng âm (2 tiết) | Vật lí 11",
-   "url": "https://www.youtube.com/watch?v=6kdF7aeNVEI",
-   "views": 115
-  },
-  {
    "title": "Chiên chả cá",
    "url": "https://www.youtube.com/watch?v=uXBP5XS3fuk",
    "views": 115
@@ -553,6 +553,11 @@
    "views": 105
   },
   {
+   "title": "Vật lí 12: Bài 12. Áp suất khí theo mô hình động học phân tử. quan hệ giữa động năng phân #Shorts",
+   "url": "https://www.youtube.com/watch?v=v0fwvZpmyMU",
+   "views": 98
+  },
+  {
    "title": "Phượng cháy",
    "url": "https://www.youtube.com/watch?v=CvfRjZqnEG0",
    "views": 94
@@ -563,14 +568,14 @@
    "views": 89
   },
   {
-   "title": "Sửa bài ôn tập chương 2_Vật lí 11",
-   "url": "https://www.youtube.com/watch?v=A86elquWryQ",
+   "title": "Bài 4. biến điệu (1 tiết) | Vật lí 11",
+   "url": "https://www.youtube.com/watch?v=N9unm8ua2gU",
    "views": 87
   },
   {
-   "title": "Bài 4. biến điệu (1 tiết) | Vật lí 11",
-   "url": "https://www.youtube.com/watch?v=N9unm8ua2gU",
-   "views": 84
+   "title": "Sửa bài ôn tập chương 2_Vật lí 11",
+   "url": "https://www.youtube.com/watch?v=A86elquWryQ",
+   "views": 87
   },
   {
    "title": "ngày 27 tháng 8, 2024",
@@ -583,19 +588,14 @@
    "views": 81
   },
   {
-   "title": "Vật lí 12: Bài 12. Áp suất khí theo mô hình động học phân tử. quan hệ giữa động năng phân #Shorts",
-   "url": "https://www.youtube.com/watch?v=v0fwvZpmyMU",
-   "views": 77
+   "title": "Vật lí 10: Bài 13. Tổng hợp và phân tích lực. cân bằng lực #Shorts",
+   "url": "https://www.youtube.com/watch?v=_iaO68BAhP8",
+   "views": 75
   },
   {
    "title": "Dang mắm",
    "url": "https://www.youtube.com/watch?v=WxxuHU4rsQc",
    "views": 75
-  },
-  {
-   "title": "Vật lí 10: Bài 13. Tổng hợp và phân tích lực. cân bằng lực #Shorts",
-   "url": "https://www.youtube.com/watch?v=_iaO68BAhP8",
-   "views": 74
   },
   {
    "title": "IMG 1397",
@@ -610,6 +610,11 @@
   {
    "title": "Bến cũ con đò -Sáng tác :Phan Ngọc Hùng",
    "url": "https://www.youtube.com/watch?v=-szdH7H9gt4",
+   "views": 67
+  },
+  {
+   "title": "Vật lí 12: Bài 13. Bài tập về khí lí tưởng #Shorts",
+   "url": "https://www.youtube.com/watch?v=hKnqYyLaodU",
    "views": 66
   },
   {
@@ -626,11 +631,6 @@
    "title": "Mắm giáng sinh",
    "url": "https://www.youtube.com/watch?v=VILBGJS2lIs",
    "views": 64
-  },
-  {
-   "title": "Vật lí 12: Bài 13. Bài tập về khí lí tưởng #Shorts",
-   "url": "https://www.youtube.com/watch?v=hKnqYyLaodU",
-   "views": 63
   },
   {
    "title": "Dốc tình -Sáng tác:Phan Ngọc Hùng",
@@ -683,6 +683,11 @@
    "views": 55
   },
   {
+   "title": "Bài 5. tia x (1 tiết) | Vật lí 12",
+   "url": "https://www.youtube.com/watch?v=wRX0i0UmOVU",
+   "views": 53
+  },
+  {
    "title": "Bài 12. chuyển động ném (2 tiết) | Vật lí 10 Chương 2",
    "url": "https://www.youtube.com/watch?v=FsdkJT5cHUc",
    "views": 52
@@ -698,8 +703,8 @@
    "views": 52
   },
   {
-   "title": "Bài 5. tia x (1 tiết) | Vật lí 12",
-   "url": "https://www.youtube.com/watch?v=wRX0i0UmOVU",
+   "title": "Bài 11. thực hành: đo gia tốc rơi tự do (2 tiết) | Vật lí 10 Chương 2",
+   "url": "https://www.youtube.com/watch?v=5suSeGROeFs",
    "views": 50
   },
   {
@@ -718,11 +723,6 @@
    "views": 50
   },
   {
-   "title": "Bài 11. thực hành: đo gia tốc rơi tự do (2 tiết) | Vật lí 10 Chương 2",
-   "url": "https://www.youtube.com/watch?v=5suSeGROeFs",
-   "views": 49
-  },
-  {
    "title": "Nước mắm cốt cá cơm truyền thống",
    "url": "https://www.youtube.com/watch?v=_N5xGjYyuLI",
    "views": 49
@@ -731,6 +731,11 @@
    "title": "ngày 23 tháng 9, 2023",
    "url": "https://www.youtube.com/watch?v=5hOP6-LZglI",
    "views": 49
+  },
+  {
+   "title": "Bài 10. thực hành đo tần số của sóng âm (2 tiết) | Vật lí 11 Chương 2",
+   "url": "https://www.youtube.com/watch?v=Qup4dw3FCDY",
+   "views": 47
   },
   {
    "title": "Mắm cốt nhỉ cá cơm chai thủy tinh",
@@ -753,11 +758,6 @@
    "views": 45
   },
   {
-   "title": "Bài 10. thực hành đo tần số của sóng âm (2 tiết) | Vật lí 11 Chương 2",
-   "url": "https://www.youtube.com/watch?v=Qup4dw3FCDY",
-   "views": 44
-  },
-  {
    "title": "Mắm Moi",
    "url": "https://www.youtube.com/watch?v=Bci3rEc8xTw",
    "views": 44
@@ -766,6 +766,11 @@
    "title": "Muối cá cơm",
    "url": "https://www.youtube.com/watch?v=zl5Ff1cdWz4",
    "views": 43
+  },
+  {
+   "title": "Vật lí 11: Sóng cơ: Giao thoa và Sóng dừng #Shorts",
+   "url": "https://www.youtube.com/watch?v=sZd0Nr8Jxwg",
+   "views": 41
   },
   {
    "title": "ngày 8 tháng 5, 2024",
@@ -818,14 +823,14 @@
    "views": 38
   },
   {
-   "title": "💞 Nụ cười YaTrang",
-   "url": "https://www.youtube.com/watch?v=wt1FLofI03I",
+   "title": "Bài 5. tia x (1 tiết) | Vật lí 12",
+   "url": "https://www.youtube.com/watch?v=SHyTUUytG90",
    "views": 37
   },
   {
-   "title": "Bài 5. tia x (1 tiết) | Vật lí 12",
-   "url": "https://www.youtube.com/watch?v=SHyTUUytG90",
-   "views": 36
+   "title": "💞 Nụ cười YaTrang",
+   "url": "https://www.youtube.com/watch?v=wt1FLofI03I",
+   "views": 37
   },
   {
    "title": "💞Bà chủ YaTrang nói gì",
@@ -851,6 +856,11 @@
    "title": "Mắm YaTrang",
    "url": "https://www.youtube.com/watch?v=F7gZ9uZS0pM",
    "views": 35
+  },
+  {
+   "title": "Bài 3. thế hấp dẫn và thế năng hấp dẫn (1 tiết) | Vật lí 11",
+   "url": "https://www.youtube.com/watch?v=RRP-EeQbCiE",
+   "views": 34
   },
   {
    "title": "Video KeToan Pro",
@@ -883,11 +893,6 @@
    "views": 31
   },
   {
-   "title": "Bài 3. thế hấp dẫn và thế năng hấp dẫn (1 tiết) | Vật lí 11",
-   "url": "https://www.youtube.com/watch?v=RRP-EeQbCiE",
-   "views": 31
-  },
-  {
    "title": "Bài 2. cường độ trường hấp dẫn (1 tiết) | Vật lí 11",
    "url": "https://www.youtube.com/watch?v=0LEWZ_vOLqA",
    "views": 31
@@ -913,6 +918,11 @@
    "views": 30
   },
   {
+   "title": "Vật lí 11: Lực tương tác giữa hai điện tích #Shorts",
+   "url": "https://www.youtube.com/watch?v=F-_JVyYzcPU",
+   "views": 29
+  },
+  {
    "title": "Nước mắm cốt cá cơm truyền thống",
    "url": "https://www.youtube.com/watch?v=sR4hsutUxno",
    "views": 29
@@ -921,11 +931,6 @@
    "title": "Mắm cốt nhỉ cá cơm YaTrang",
    "url": "https://www.youtube.com/watch?v=9TEMgEhHP0w",
    "views": 29
-  },
-  {
-   "title": "Vật lí 11: Lực tương tác giữa hai điện tích #Shorts",
-   "url": "https://www.youtube.com/watch?v=F-_JVyYzcPU",
-   "views": 28
   },
   {
    "title": "Sự rơi tự do | Vật lí 10",
@@ -953,6 +958,16 @@
    "views": 27
   },
   {
+   "title": "Vật lí 11: Bài 11. Sóng điện từ #Shorts",
+   "url": "https://www.youtube.com/watch?v=3CS95c_RPPA",
+   "views": 26
+  },
+  {
+   "title": "Bài 4. vùng năng lượng của tinh thể chất rắn (3 tiết) | Vật lí 12",
+   "url": "https://www.youtube.com/watch?v=oFu1IaMIKbM",
+   "views": 26
+  },
+  {
    "title": "Bài 9. chuyển động thẳng biến đổi đều (2 tiết) | Vật lí 10 Chương 2",
    "url": "https://www.youtube.com/watch?v=xZbHmm321W0",
    "views": 26
@@ -961,11 +976,6 @@
    "title": "🔥 Mắm loại 1 15N chỉ 60000₫/l",
    "url": "https://www.youtube.com/watch?v=hKBzeYA6jhQ",
    "views": 26
-  },
-  {
-   "title": "Bài 4. vùng năng lượng của tinh thể chất rắn (3 tiết) | Vật lí 12",
-   "url": "https://www.youtube.com/watch?v=oFu1IaMIKbM",
-   "views": 25
   },
   {
    "title": "Nước mắm cốt cá cơm truyền thống",
@@ -983,8 +993,8 @@
    "views": 25
   },
   {
-   "title": "Vật lí 11: Sóng cơ: Giao thoa và Sóng dừng #Shorts",
-   "url": "https://www.youtube.com/watch?v=sZd0Nr8Jxwg",
+   "title": "Vật lí 10: Khối lượng riêng và Áp suất chất lỏng: em làm được không? #Shorts",
+   "url": "https://www.youtube.com/watch?v=VWu1EAHSpzI",
    "views": 24
   },
   {
@@ -1008,11 +1018,6 @@
    "views": 24
   },
   {
-   "title": "Khối lượng riêng và Áp suất chất lỏng: em làm được không? #Shorts",
-   "url": "https://www.youtube.com/watch?v=VWu1EAHSpzI",
-   "views": 23
-  },
-  {
    "title": "Hiệu ứng quang điện và năng lượng photon",
    "url": "https://www.youtube.com/watch?v=6VHU3EkB4DE",
    "views": 23
@@ -1026,11 +1031,6 @@
    "title": "Đặc điểm của nước  mắm cá cơm truyền thống yatrang",
    "url": "https://www.youtube.com/watch?v=04HwIwUcuyY",
    "views": 23
-  },
-  {
-   "title": "Vật lí 11: Bài 11. Sóng điện từ #Shorts",
-   "url": "https://www.youtube.com/watch?v=3CS95c_RPPA",
-   "views": 22
   },
   {
    "title": "Sản phẩm mới của YaTrang",
@@ -1143,6 +1143,11 @@
    "views": 17
   },
   {
+   "title": "Bài 9. hiệu ứng quang điện và năng lượng của photon (6 tiết) | Vật lí 12",
+   "url": "https://www.youtube.com/watch?v=KqvxEzaiSdc",
+   "views": 16
+  },
+  {
    "title": "ngày 22 tháng 9, 2023",
    "url": "https://www.youtube.com/watch?v=yxQdQglTDfE",
    "views": 16
@@ -1178,11 +1183,6 @@
    "views": 14
   },
   {
-   "title": "Bài 9. hiệu ứng quang điện và năng lượng của photon (6 tiết) | Vật lí 12",
-   "url": "https://www.youtube.com/watch?v=KqvxEzaiSdc",
-   "views": 14
-  },
-  {
    "title": "Bài 2. lưỡng tính sóng hạt (2 tiết) | Vật lí 12",
    "url": "https://www.youtube.com/watch?v=COONgf1fjhg",
    "views": 14
@@ -1213,8 +1213,13 @@
    "views": 13
   },
   {
-   "title": "Trọng lực và lực căng: em làm được không? #Shorts",
+   "title": "Vật lí 10: Trọng lực và lực căng: em làm được không? #Shorts",
    "url": "https://www.youtube.com/watch?v=W2inf-xW8k0",
+   "views": 12
+  },
+  {
+   "title": "Bài 9. Hiệu ứng quang điện và năng lượng photon (3 tiết) | Vật lí 12 Chương 3 Kết nối tri thức",
+   "url": "https://www.youtube.com/watch?v=2udDwuJFW0I",
    "views": 12
   },
   {
@@ -1228,7 +1233,7 @@
    "views": 12
   },
   {
-   "title": "Ba định luật Newton: em làm được không? #Shorts",
+   "title": "Vật lí 10: Ba định luật Newton: em làm được không? #Shorts",
    "url": "https://www.youtube.com/watch?v=DN9GJJPqGZk",
    "views": 11
   },
@@ -1265,11 +1270,6 @@
   {
    "title": "Bài 11. Sóng điện từ (2 tiết) | Vật lí 11 Chương 2 Kết nối tri thức",
    "url": "https://www.youtube.com/watch?v=CK0Ip48jtcc",
-   "views": 10
-  },
-  {
-   "title": "Bài 9. Hiệu ứng quang điện và năng lượng photon (3 tiết) | Vật lí 12 Chương 3 Kết nối tri thức",
-   "url": "https://www.youtube.com/watch?v=2udDwuJFW0I",
    "views": 10
   },
   {
@@ -1348,6 +1348,11 @@
    "views": 9
   },
   {
+   "title": "Bài 13. Tổng hợp và phân tích lực. cân bằng lực (2 tiết) | Vật lí 10 Chương 3 Kết nối tri thức",
+   "url": "https://www.youtube.com/watch?v=EfsG2mA9cU0",
+   "views": 8
+  },
+  {
    "title": "Vật lí 10: Biến dạng của vật rắn #Shorts",
    "url": "https://www.youtube.com/watch?v=RPWIViR_xP4",
    "views": 8
@@ -1373,8 +1378,8 @@
    "views": 7
   },
   {
-   "title": "Bài 13. Tổng hợp và phân tích lực. cân bằng lực (2 tiết) | Vật lí 10 Chương 3 Kết nối tri thức",
-   "url": "https://www.youtube.com/watch?v=EfsG2mA9cU0",
+   "title": "Bài 12. Giao thoa sóng (2 tiết) | Vật lí 11 Chương 2 Kết nối tri thức",
+   "url": "https://www.youtube.com/watch?v=AIe3Z2S8iu4",
    "views": 7
   },
   {
@@ -1418,13 +1423,13 @@
    "views": 7
   },
   {
-   "title": "Bài 12. Giao thoa sóng (2 tiết) | Vật lí 11 Chương 2 Kết nối tri thức",
-   "url": "https://www.youtube.com/watch?v=AIe3Z2S8iu4",
+   "title": "Vật lí 11: Thế năng điện và Điện thế #Shorts",
+   "url": "https://www.youtube.com/watch?v=p7THgC-17_M",
    "views": 6
   },
   {
-   "title": "Vật lí 11: Thế năng điện và Điện thế #Shorts",
-   "url": "https://www.youtube.com/watch?v=p7THgC-17_M",
+   "title": "Chuyên đề bài tập Vật lí 11: Giao thoa sóng",
+   "url": "https://www.youtube.com/watch?v=TNr9Wl-Xyk8",
    "views": 6
   },
   {
@@ -1443,13 +1448,13 @@
    "views": 6
   },
   {
-   "title": "Chuyên đề bài tập Vật lí 11: Sóng điện từ",
-   "url": "https://www.youtube.com/watch?v=mwU0GpTEjGU",
+   "title": "Giới thiệu kênh",
+   "url": "https://www.youtube.com/watch?v=xod7KiI9S98",
    "views": 5
   },
   {
-   "title": "Chuyên đề bài tập Vật lí 11: Giao thoa sóng",
-   "url": "https://www.youtube.com/watch?v=TNr9Wl-Xyk8",
+   "title": "Chuyên đề bài tập Vật lí 11: Sóng điện từ",
+   "url": "https://www.youtube.com/watch?v=mwU0GpTEjGU",
    "views": 5
   },
   {
@@ -1496,11 +1501,6 @@
    "title": "Nước mắm cốt cá cơm truyền thống",
    "url": "https://www.youtube.com/watch?v=tINPbTMfQcE",
    "views": 5
-  },
-  {
-   "title": "Giới thiệu kênh",
-   "url": "https://www.youtube.com/watch?v=xod7KiI9S98",
-   "views": 4
   },
   {
    "title": "Bài 13. Bài tập về khí lí tưởng (2 tiết) | Vật lí 12 Chương 2 Kết nối tri thức",
@@ -1673,6 +1673,11 @@
    "views": 1
   },
   {
+   "title": "Chuyên đề bài tập Vật lí 12: Điện từ trường và Sóng điện từ",
+   "url": "https://www.youtube.com/watch?v=LFW-xN5HH9g",
+   "views": 1
+  },
+  {
    "title": "Vật lí 11: Năng lượng điện và Đo suất điện động #Shorts",
    "url": "https://www.youtube.com/watch?v=i6hTory0cU8",
    "views": 1
@@ -1705,11 +1710,6 @@
   {
    "title": "Chuyên đề bài tập Vật lí 12: Máy phát điện và ứng dụng cảm ứng điện từ",
    "url": "https://www.youtube.com/watch?v=afmMU5j2EDQ",
-   "views": 0
-  },
-  {
-   "title": "Chuyên đề bài tập Vật lí 12: Điện từ trường và Sóng điện từ",
-   "url": "https://www.youtube.com/watch?v=LFW-xN5HH9g",
    "views": 0
   },
   {

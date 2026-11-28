@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-27T02:39:39+00:00",
+ "updated": "2026-11-28T02:29:07+00:00",
  "median_views": 23.0,
- "comment_rate_pct": 0.066,
+ "comment_rate_pct": 0.065,
  "like_rate_pct": 0.41,
  "top": [
   {
    "id": "PbD-CwaZtRI",
    "title": "Tổng bí thư họp ban phòng chống tham nhũng",
-   "views": 51837
+   "views": 51841
   },
   {
    "id": "n1cThlKzYC8",
@@ -101,22 +101,22 @@
   {
    "topic": "Vật lí 11",
    "videos": 45,
-   "avg_views": 88
+   "avg_views": 89
   },
   {
    "topic": "Nhạc sáng tác",
    "videos": 1,
-   "avg_views": 66
+   "avg_views": 67
   },
   {
    "topic": "Vật lí 12",
    "videos": 26,
-   "avg_views": 32
+   "avg_views": 34
   },
   {
    "topic": "Thực hành",
    "videos": 14,
-   "avg_views": 29
+   "avg_views": 30
   },
   {
    "topic": "Ôn tập",
@@ -138,7 +138,7 @@
   {
    "day": "Thứ 5",
    "videos": 42,
-   "avg_views": 139
+   "avg_views": 140
   },
   {
    "day": "Chủ nhật",
@@ -153,12 +153,12 @@
   {
    "day": "Thứ 3",
    "videos": 49,
-   "avg_views": 65
+   "avg_views": 66
   },
   {
    "day": "Thứ 4",
    "videos": 33,
-   "avg_views": 59
+   "avg_views": 60
   }
  ],
  "tips": [
